@@ -172,6 +172,7 @@ Book Wish List (History) 2023.03.27 01:23
 - Macintyre, Stuart, and Anna Clark. _The History Wars._ Melbourne: Melbourne University Press, 2003.
 - MacIntyre, Stuart. _The Party: The Communist Party of Australia from Heyday to Reckoning._ Sydney: Allen & Unwin, 2022.
 - Elder, Bruce. *Blood on the Wattle: Massacres and Maltreatment of Australian Aborigines since 1788.* 3rd ed, New Holland, 2003.
+- Sparrow, Jeff, and Jill Sparrow. *Radical Melbourne: A Secret History.* Vulgar Press, 2000.
 ## New Zealand
 - Cunningham, Matthew and Marinus La Rooij  and Paul Spoonley (eds). *Histories of Hate: The Radical Right in Aotearoa New Zealand.* Otago University Press, 2023.
 # Popular Music
