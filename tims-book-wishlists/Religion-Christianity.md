@@ -114,6 +114,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Maniyattu, Pauly, editor. *East Syriac Theology: An Introduction.* Ephrem's Publications, 2007.
 - McGowan, Andrew Brian. _Seven Last Words: Cross and Creation._ Cascade Books, 2021.
 - Miller, Ed L., and Stanley J. Grenz. *Fortress Introduction to Contemporary Theologies.* Fortress Press, 1998.
+- Wright, Archie T., and Loren T. Stuckenbruck. _Satan and the Problem of Evil: From the Bible to the Early Church Fathers._ Fortress Press, 2022.
 ## God
 ## The Trinity
 - Coakley, Sarah. *God, Sexuality and the Self: An Essay “on the Trinity.”* Cambridge University Press, 2013.
