@@ -115,7 +115,7 @@ The following books have not necessarily been removed from the other lists. Comm
 - Kassenova, Togzhan. *Atomic Steppe: How Kazakhstan Gave up the Bomb.* Stanford University Press, 2022. 
 - Lillis, Joanna. *Dark Shadows: Inside the Secret World of Kazakhstan.* Bloomsbury Publishing, 2022. 
 - Nash, Mark, editor. *Red Africa: Affective Communities and the Cold War.* Black Dog Publishing, 2016. 
-
+- Prashad, Vijay. *Washington Bullets.* Inkani Books, 2020.
 ---
 
 # History 
