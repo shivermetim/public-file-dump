@@ -21,6 +21,7 @@ The following books have not necessarily been removed from the other lists. Comm
     - [Eastern Liturgies](#eastern-liturgies)
     - [Liturgical Theology](#liturgical-theology)
     - [Liturgical History](#liturgical-history)
+- [Religion](#religion)
 - [Geopolitics \& Current Affairs](#geopolitics--current-affairs)
 - [History](#history)
   - [Genocide](#genocide)
@@ -109,6 +110,11 @@ The following books have not necessarily been removed from the other lists. Comm
 - Bradshaw, Paul F., and Maxwell E. Johnson. *The Origins of Feasts, Fasts, and Seasons in Early Christianity.* SPCK & Liturgical Press, 2011. 
 - Douglas, Brian. *The Anglican Eucharist in Australia: The History, Theology, and Liturgy of the Eucharist in the Anglican Church of Australia.* Brill, 2022. 
 - Senn, Frank C. *The People’s Work: A Social History of the Liturgy.* Fortress Press, 2010. 
+
+---
+
+# Religion
+- Tremlett, Paul-François. Religion and Marxism: An Introduction. Equinox Publishing Ltd, 2023.
 
 ---
 
