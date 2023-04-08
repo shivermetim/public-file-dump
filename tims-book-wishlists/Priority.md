@@ -47,11 +47,12 @@ The following books have not necessarily been removed from the other lists. Comm
 - Miller, Ed L., and Stanley J. Grenz. *Fortress Introduction to Contemporary Theologies.* Fortress Press, 1998. 
 - Olson, Roger E. *The Journey of Modern Theology: From Reconstruction to Deconstruction.* IVP Academic, 2013. 
 ## Church History 
-- Breward, Ian. *A History of the Churches in Australasia.* Oxford University Press, 2001. 
+- Breward, Ian. *A History of the Churches in Australasia.* Oxford University Press, 2001.
+- Hollinger, David A. *Christianity’s American Fate: How Religion Became More Conservative and Society More Secular.* Princeton University Press, 2022.
 - Morris, Adam. *American Messiahs: False Prophets of a Damned Nation.* First edition, Liveright Publishing Corporation, 2019. 
 - Piggin, Stuart, and Robert Dean Linder. *Attending to the National Soul: Evangelical Christians in Australian History 1914-2014. Volume II of The Fountain of Public Prosperity.* Monash University Publishing, 2020. 
 - Stanley, Brian. *Christianity in the Twentieth Century: A World History.* Princeton University Press, 2018. 
-- Sutton, Matthew Avery. *American Apocalypse: A History of Modern Evangelicalism.* First Harvard University Press paperback edition, The Belknap Press of Harvard University Press, 2017. 
+- Sutton, Matthew Avery. *American Apocalypse: A History of Modern Evangelicalism.* First Harvard University Press paperback edition, The Belknap Press of Harvard University Press, 2017.
 ### Eastern Christianity 
 - Baumer, Christoph. *The Church of the East: An Illustrated History of Assyrian Christianity.* I.B. Tauris, 2016. 
 - Dickens, Mark. *Echoes of a Forgotten Presence: Reconstructing the History of the Church of the East in Central Asia.* LIT, 2020. 
