@@ -18,6 +18,7 @@ Tim's Book Wish List (Religious Studies) 2022.11.19 19:04
 - Bandak, Andreas, editor. *Politics of Worship in the Contemporary Middle East: Sainthood in Fragile States.* Brill, 2013.
 - Clooney, Francis X., editor. *The New Comparative Theology: Interreligious Insights from the next Generation.* T & T Clark, 2010.
 - Kärkkäinen, Veli-Matti. *An Introduction to the Theology of Religions: Biblical, Historical, and Contemporary Perspectives.* InterVarsity Press, 2003.
+- Young, Francis. *Twilight of the Godlings.* Cambridge University Press, 2023.
 
 --- 
 
