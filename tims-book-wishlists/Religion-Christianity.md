@@ -152,6 +152,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Malek, Roman. *The Chinese Face of Jesus Christ: Annotated Bibliography. Volume 4a.* Routledge, 2021.
 - Malek, Roman. *The Chinese Face of Jesus Christ: Volume 1.* Routledge, 2020.
 - Malek, Roman. *The Chinese Face of Jesus Christ: Volume 3a.* Routledge, 2021.
+- Phan, Peter C., editor. *Christian Theology in the Age of Migration: Implications for World Christianity.* Lexington Books, 2022.
 - Randy Woodley, Shalom and the Community of Creation: An Indigenous Vision, Grand Rapids, Michigan: William B. Eerdmans, 2012.
 - Starr, Chloë, editor. *Reading Christian Scriptures in China.* T & T Clark, 2008.
 - Thatamanil, John J. *Circling the Elephant: A Comparative Theology of Religious Diversity.* Fordham University Press, 2020.
@@ -234,6 +235,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Olson, Roger E. *The Journey of Modern Theology: From Reconstruction to Deconstruction.* IVP Academic, 2013.
 - Pelikan, Jaroslav Jan. *The Emergence of the Catholic Tradition.* University of Chicago press, 1971.
 - Pelikan, Jaroslav. *The Spirit of Eastern Christendom: 600 - 1700.* University of Chicago Press, 2006.
+- Whitworth, Patrick. *Defining God: Athanasius, Nicaea and the Trinitarian Controversy of the Fourth Century.* Sacristy Press, 2023.
 ## Patristics
 - Evans, G. R., editor. *The First Christian Theologians: An Introduction to Theology in the Early Church.* Blackwell Pub, 2004.
 - Aquinas, Thomas. *Summa Theologiae: Complete Set.* Aquinas Inst, 2012.
