@@ -40,6 +40,7 @@ The following books have not necessarily been removed from the other lists. Comm
 
 # Christianity 
 - Louth, Andrew, et al., editor. *The Oxford Dictionary of the Christian Church.* 4th ed., Oxford University Press, 2022. 
+- Sansom, Clive. *Cathedral*. Routledge, 2023.
 ## Biblical Studies 
 - Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003. 
 ## Historical Theology 
@@ -95,6 +96,7 @@ The following books have not necessarily been removed from the other lists. Comm
 - Chupungco, Anscar J., editor. *Handbook for Liturgical Studies, Volume V: Liturgical Time and Space.* Liturgical Press, 2000.
 - Gray, Donald. *The 1927-28 Prayer Book Crisis. Vol. 2.* SCM, 2006.
 - Gray, Donald. *The 1927-28 Prayer Book Crisis. Vol. 1.* SCM, 2005.
+- Handschy, Daniel J., et al., editors. *A Eucharist-Shaped Church: Prayer, Theology, Mission.* Lexington Books, 2022.
 ### Liturgical Texts 
 - Atwell, Robert. *Celebrating the Saints: Daily Spiritual Readings for the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church & the Church in Wales.* Canterbury Press, 2017. 
 - Buchanan, Colin Ogilvie, editor. *Latest Anglican Liturgies, 1976-1984.* SPCK ; Grove Books, 1985. 
