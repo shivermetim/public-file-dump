@@ -41,6 +41,7 @@ The following books have not necessarily been removed from the other lists. Comm
 # Christianity 
 - Louth, Andrew, et al., editor. *The Oxford Dictionary of the Christian Church.* 4th ed., Oxford University Press, 2022. 
 - Sansom, Clive. *Cathedral*. Routledge, 2023.
+- Martin, Lerone A. *The Gospel of J. Edgar Hoover: How the FBI Aided and Abetted the Rise of White Christian Nationalism.* Princeton University Press, 2023.
 ## Biblical Studies 
 - Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003. 
 ## Historical Theology 
