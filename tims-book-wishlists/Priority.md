@@ -33,7 +33,6 @@ The following books have not necessarily been removed from the other lists. Comm
 - Presland, Gary. *Aboriginal Melbourne: The Lost Land of the Kulin People.* Penguin Books, 1998.
 - Pybus, Cassandra. *Truganini: Journey through the Apocalypse.* Allen & Unwin, 2020. 
 - Reynolds, Henry. *The Other Side of the Frontier: Aboriginal Resistance to the European Invasion of Australia.* University of New South Wales Press, 2006. 
-- Ryan, Lyndall. *Tasmanian Aborigines: A History since 1803.* Allen & Unwin, 2012. 
 - Taylor, Rebe. *Unearthed: The Aboriginal Tasmanians of Kangaroo Island.* Rev. ed, Wakefield Press, 2008. 
 
 ---
