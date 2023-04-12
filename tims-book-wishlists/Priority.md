@@ -51,9 +51,7 @@ The following books have not necessarily been removed from the other lists. Comm
 ## Church History 
 - Breward, Ian. *A History of the Churches in Australasia.* Oxford University Press, 2001.
 - Hollinger, David A. *Christianity’s American Fate: How Religion Became More Conservative and Society More Secular.* Princeton University Press, 2022.
-- Morris, Adam. *American Messiahs: False Prophets of a Damned Nation.* First edition, Liveright Publishing Corporation, 2019. 
 - Piggin, Stuart, and Robert Dean Linder. *Attending to the National Soul: Evangelical Christians in Australian History 1914-2014. Volume II of The Fountain of Public Prosperity.* Monash University Publishing, 2020. 
-- Stanley, Brian. *Christianity in the Twentieth Century: A World History.* Princeton University Press, 2018. 
 - Sutton, Matthew Avery. *American Apocalypse: A History of Modern Evangelicalism.* First Harvard University Press paperback edition, The Belknap Press of Harvard University Press, 2017.
 ### Eastern Christianity 
 - Baumer, Christoph. *The Church of the East: An Illustrated History of Assyrian Christianity.* I.B. Tauris, 2016. 
@@ -84,7 +82,6 @@ The following books have not necessarily been removed from the other lists. Comm
 - McDonald, Joseph, editor. *Exploring Moral Injury in Sacred Texts.* Jessica Kingsley Publishers, 2017. 
 - Moltmann, Jürgen, and Jürgen Moltmann. *The Trinity and the Kingdom of God: The Doctrine of God.* SCM, 1981. 
 - Noll, Mark A. *The Scandal of the Evangelical Mind.* Erdmans, 1994. 
-- Parratt, John, editor. *An Introduction to Third World Theologies.* Cambridge University Press, 2004. 
 - Rahner, Karl. *The Trinity.* Crossroad, 1997. 
 - Starr, Chloë. A Reader in Chinese Theology. Baylor University Press, 2022.
 - Thiselton, Anthony C. *Systematic Theology.* Eerdmans Publishing Company, 2015.
@@ -124,7 +121,7 @@ The following books have not necessarily been removed from the other lists. Comm
 - Kassenova, Togzhan. *Atomic Steppe: How Kazakhstan Gave up the Bomb.* Stanford University Press, 2022. 
 - Lillis, Joanna. *Dark Shadows: Inside the Secret World of Kazakhstan.* Bloomsbury Publishing, 2022. 
 - Nash, Mark, editor. *Red Africa: Affective Communities and the Cold War.* Black Dog Publishing, 2016. 
-- Prashad, Vijay. *Washington Bullets.* Inkani Books, 2020.
+
 ---
 
 # History 
