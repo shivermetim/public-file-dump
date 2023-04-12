@@ -41,6 +41,8 @@ The following books have not necessarily been removed from the other lists. Comm
 - Louth, Andrew, et al., editor. *The Oxford Dictionary of the Christian Church.* 4th ed., Oxford University Press, 2022. 
 - Sansom, Clive. *Cathedral*. Routledge, 2023.
 - Martin, Lerone A. *The Gospel of J. Edgar Hoover: How the FBI Aided and Abetted the Rise of White Christian Nationalism.* Princeton University Press, 2023.
+- Freeman, Austin M., editor. *Theology and H.P. Lovecraft.* Lexington Books/Fortress Academic, 2022.
+- Havea, Jione, et al., editors. *Theology as Threshold: Invitations from Aotearoa New Zealand.* Lexington Books/Fortress Academic, 2022.
 ## Biblical Studies 
 - Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003. 
 ## Historical Theology 
@@ -56,7 +58,8 @@ The following books have not necessarily been removed from the other lists. Comm
 ### Eastern Christianity 
 - Baumer, Christoph. *The Church of the East: An Illustrated History of Assyrian Christianity.* I.B. Tauris, 2016. 
 - Dickens, Mark. *Echoes of a Forgotten Presence: Reconstructing the History of the Church of the East in Central Asia.* LIT, 2020. 
-- Frykenberg, Robert Eric. *Christianity in India: From Beginnings to the Present.* Oxford University Press, 2010. 
+- Frykenberg, Robert Eric. *Christianity in India: From Beginnings to the Present.* Oxford University Press, 2010.
+- Coakley, J. F. *The Church of the East and the Church of England: A History of the Archbishop of Canterbury’s Assyrian Mission.* Clarendon Press/Oxford University Press, 1992.
 ### Anglicanism 
 - Bray, Gerald Lewis. *Anglicanism: A Reformed Catholic Tradition.* Lexham Press, 2021. 
 - Chapman, Mark D., and Jeremy Bonner, editors. *Costly Communion: Ecumenical Initiative and Sacramental Strife in the Anglican Communion.* Brill, 2019. 
@@ -102,7 +105,8 @@ The following books have not necessarily been removed from the other lists. Comm
 - Jasper, Ronald Claud Dudley, et al., editors. *Prayers of the Eucharist: Early and Reformed: Texts Translated and Edited with Introductions.* Fourth Edition, Liturgical Press, 2019. 
 - Tristam, and Simon Kershaw. *Exciting Holiness: Collects and Readings for the Festivals and Lesser Festivals of the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church and the Church in Wales.* Canterbury Press, 2007. 
 ### Eastern Liturgies 
-- Bradshaw, Paul F., editor. *Essays on Early Eastern Eucharistic Prayers.* Liturgical Press, 1997. 
+- Bradshaw, Paul F., editor. *Essays on Early Eastern Eucharistic Prayers.* Liturgical Press, 1997.
+- Varghese, Baby. *Syriac Liturgy in India.* Harrassowitz, 2023.
 ### Liturgical Theology 
 - Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003. 
 ### Liturgical History 
@@ -113,7 +117,7 @@ The following books have not necessarily been removed from the other lists. Comm
 ---
 
 # Religion
-- Tremlett, Paul-François. Religion and Marxism: An Introduction. Equinox Publishing Ltd, 2023.
+- Tremlett, Paul-François. *Religion and Marxism: An Introduction.* Equinox Publishing Ltd, 2023.
 
 ---
 
@@ -135,3 +139,8 @@ The following books have not necessarily been removed from the other lists. Comm
 ## History of Computer Science 
 - Earls, Alan R. *Digital Equipment Corporation.* Arcadia, 2004. 
 - Schein, Edgar H., editor. *DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation.* Berrett-Koehler, 2004. 
+
+---
+
+## WORKING
+- Ascending to Heaven: Ancient Churches and Monasteries of Ethiopia
