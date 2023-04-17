@@ -76,6 +76,7 @@ Tim's Book Wish List (Philosophy, Political & Social Science) 2022.11.12 12:49
 - Cox, John M. *To Kill a People: Genocide in the Twentieth Century.* Oxford University Press, 2017.
 - Jones, Adam. *Genocide: A Comprehensive Introduction.* 3rd edition, Routledge, Taylor & Francis Group, 2017.
 - Üngör, Uğur Ümit. *Genocide, New Perspectives on Its Causes, Courses and Consequences.* Amsterdam University press, 2016.
+- Licklider, Roy, editor. *Stopping the Killing: How Civil Wars End.* New York University Press, 1993.
 ## Bosnia
 - Bartrop, Paul R., editor. *Bosnian Genocide: The Essential Reference Guide.* ABC-CLIO, 2016.
 - Honig, Jan Willem, and Norbert Both. *Srebrenica: Record of a War Crime.* Penguin Books, 1997.
