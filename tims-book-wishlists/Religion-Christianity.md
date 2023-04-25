@@ -395,6 +395,8 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Alzati, Cesare. *Ambrosianum Mysterium: The Church of Milan and Its Liturgical Tradition*. Grove Books, 1999.
 - Catholic Church. *Book of Blessings: Approved for Use in the Dioceses of the United States of America by the National Conference of Catholic Bishops and Confirmed by the Apostolic See.* Liturgical Press, 1989
 - Woolfenden, Graham. *Daily Prayer in Christian Spain: A Study of the Mozarabic Office.* SPCK, 2000.
+- *St. Gregory's Prayer Book.* Ignatius Press, 2018.
+- Anglicanorum Coetibus Society. *Divine Worship: Daily Office.* Commonwealth Edition, Catholic Truth Society, 2022.
 #### Eastern Liturgy
 - Varghese, Baby. *The Syriac Version of the Liturgy of St. James: A Brief History for Students.* Grove Books Limited, 2001.
 #### Early Liturgies
