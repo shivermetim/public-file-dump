@@ -165,6 +165,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Mark G. Brett, *Locations of God: political theology in the Hebrew Bible*, Oxford: Oxford University Press, 2019.
 - Thurman, Howard. *Jesus and the Disinherited.* Beacon Press, 1996.
 - Tolstoy, Leo. *The Kingdom of God Is Within You.*
+- Morris, William Dale. *The Christian Origins of Social Revolt.* Routledge, 2021.
 ### Philosophical Theology
 - Allen, Diogenes, and Eric O. Springsted. *Philosophy for Understanding Theology.* 2nd ed, Westminster John Knox Press, 2007. 
 ### Feminist Theology
