@@ -140,6 +140,7 @@ Book Wish List (History) 2023.03.27 01:23
 - Ferriter, Diarmaid. *Between Two Hells: The Irish Civil War.* Profile Books Ltd, 2021.
 - Kee, Robert. *The Green Flag: A History of Irish Nationalism.* Penguin, 2000.
 - Townshend, Charles. *The Republic: The Fight for Irish Independence, 1918 - 1923. *Penguin Books, 2014.
+- Taylor, Peter, and Peter Taylor. *Behind the Mask: The IRA and Sinn Fein.* TV Books, 1997.
 ## Asia
 ### South Asia
 - Singh, Upinder. *A History of Ancient and Early Medieval India: From the Stone Age to the 12th Century.* Pearson Education, 2008.
