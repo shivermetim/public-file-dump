@@ -28,11 +28,24 @@ My go-to site for rare and antique books is www.bookfinder.com. Typically I'm no
 - Cureton, W. *Ancient Syriac Documents Relative To The Earliest Establishment Of Christianity In Edessa And The Neighbouring Countries: Discovered, Edited, Translated, and Annotated.* Williams and Nograte, 1864.
 - Forsyth, P. T. *The justification of God: lectures for war-time on a Christian theodicy.* London: Duckworth, 1916.
 - Giraudo, Cesare. *The Anaphoral Genesis of the Institution Narrative in Light of the Anaphora of Addai and Mari: Acts of the International Liturgy Congress, Rome, 25-26 October 2011.* Rome: Orientalia Christiana, 2013
-- Hedin, Sven A. *Trans-Himalaya: Discoveries and Adventures in Tibet.* London: MacMillan, 1909.
-- Hedin, Sven. *Central Asia Atlas: Memoir on Maps.* 1966.
-- Hedin, Sven. *My Life as an Explorer.* New York: Garden City Publishing Co., 1925.
 - Hedin, Sven. *The Silk Road.* London: Routledge, 1936.
-- Hedin, Sven. *Through Asia.* London: Methuen, 1898.
+- Hedin, Sven. _Central Asia and Tibet: Towards the Holy City of Lassa._ Vol. 1. London: Hurst and Blackett; New York: Charles Scribners Sons, 1903.
+- Hedin, Sven. _Central Asia and Tibet: Towards the Holy City of Lassa._ Vol. 2. London: Hurst and Blackett; New York: Charles Scribners Sons, 1903.
+- Hedin, Sven. _Central Asia Atlas._ Vol. 1. Stockholm: Statens etnografiska museum, 1966-1982.
+- Hedin, Sven. _Central Asia Atlas._ Vol. 2. Stockholm: Statens etnografiska museum, 1966-1982.
+- Hedin, Sven. _Central Asia Atlas._ Vol. 3. Stockholm: Statens etnografiska museum, 1966-1982.
+- Hedin, Sven. _Central Asia Atlas._ Vol. 4. Stockholm: Statens etnografiska museum, 1966-1982.
+- Hedin, Sven. _Central Asia Atlas._ Vol. 5. Stockholm: Statens etnografiska museum, 1966-1982.
+- Hedin, Sven. _My Life as an Explorer._ New York: Boni & Liveright, 1925.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 1. Stockholm, 1904-1908.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 2. Stockholm, 1904-1908.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 3. Stockholm, 1904-1908.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 4. Stockholm, 1904-1908.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 5. Stockholm, 1904-1908.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 6. Stockholm, 1904-1908.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 7. Stockholm, 1904-1908.
+- Hedin, Sven. _Scientific Results of a Journey in Central Asia and Tibet 1899-1902._ Vol. 8. Stockholm, 1904-1908.
+- Hedin, Sven. _The Wandering Lake_. New York: E. P. Dutton, 1940.
 - Kaye, Bruce Norman. *Anglicanism in Australia: A History.* Carlton South: Melbourne Univ. Press, 2002.
 - King, Archidale. *Liturgies of the Past.* London: Longmans, Green and co., 1959.
 - King, Archidale. *Liturgies of the Primatial Sees.* London: Longmans, Green and co., 1957.
@@ -47,15 +60,27 @@ My go-to site for rare and antique books is www.bookfinder.com. Typically I'm no
 - Menachery, George. *Indian Church History Classics. Vol. 1, The Nazarenes.* Ollur, India: South Asia Research Assistance Services, 1998.
 - Menachery, George. *Indian Church History Classics. Vol. 2, The Catholics.* Ollur, India: South Asia Research Assistance Services, 2012.
 - Menachery, George. *Indian Church History Classics. Vol. 3, The Christians.* Ollur, India: South Asia Research Assistance Services, 20??.
+- Montell, Gösta. _Sven Hedin as Artist. For the centenary of Sven Hedin's birth._ Stockholm: Gen. Stabenslitogr. Anst., 1964. 
 - O'Connell, John Berthram. *Church building and furnishing: the Church's way: A study in liturgical law.* London: Burns and Oates, 1955.
 - Pearcey, Trevor. *A History of Australian Computing.* Caulfield: Caulfield Institute of Technology, 1988.
 - Pearson, Lennart. *The Life and Work of Julia Pettee, 1872-1967.* Durham, NC: American Theological Library Association, 1970.
 - Perkins, Justin. *A Residence of Eight Years in Persia, among the Nestorian Christians: with Notices of the Muhammedans.* New York: Allen, Morrill & Wardwell, 1843.
 - Reischel, Harald Johann. *The Care That Was*. 2nd ed., Mermaid Waters, QLD: Poseidon Books, 2003.
-- Stein, Sir Aurel. *Ancient Khotan: Detailed report of archaeological explorations in Chinese Turkestan, 2 vols.* Oxford: Clarendon Press, 1907. 
-- Stein, Sir Aurel. *On Ancient Central Asian Tracks: Brief Narrative of Three Expeditions in Innermost Asia and Northwestern China.* 1932.
-- Stein, Sir Aurel. *Ruins of Desert Cathay: Personal Narrative of Explorations in Central Asia and Westernmost China, 2 vols.* London: Macmillan, 1912.
-- Stein, Sir Aurel. *Sand-Buried Ruins of Khotan.* London: Hurst and Blackett, Ltd., 1904.
+- Stein, Aurel. _Ancient Khotan: detailed report of archaeological explorations in Chinese Turkestan carried out and described under the orders of H. M. Indian government._ Oxford: Clarendon Press, 1907.
+- Stein, Aurel. _Innermost Asia: detailed report of explorations in Central Asia, Kan-su, and Eastern Iran carried out and described under the orders of H.M. Indian Government._ Vol. 1. Oxford: Clarendon Press, 1928.
+- Stein, Aurel. _Innermost Asia: detailed report of explorations in Central Asia, Kan-su, and Eastern Iran carried out and described under the orders of H.M. Indian Government._ Vol. 2. Oxford: Clarendon Press, 1928.
+- Stein, Aurel. _Innermost Asia: detailed report of explorations in Central Asia, Kan-su, and Eastern Iran carried out and described under the orders of H.M. Indian Government._ Vol. 3. Oxford: Clarendon Press, 1928.
+- Stein, Aurel. _Innermost Asia: detailed report of explorations in Central Asia, Kan-su, and Eastern Iran carried out and described under the orders of H.M. Indian Government._ Vol. 4. Oxford: Clarendon Press, 1928.
+- Stein, Aurel. _Innermost Asia: detailed report of explorations in Central Asia, Kan-su, and Eastern Iran carried out and described under the orders of H.M. Indian Government._ Vol. 5. Oxford: Clarendon Press, 1928.
+- Stein, Aurel. _On ancient Central-Asian tracks: brief narrative of three expeditions in innermost Asia and north-western China._ London, Macmillan, 1933.
+- Stein, Aurel. _Ruins of desert Cathay: personal narrative of explorations in Central Asia and westernmost China._ Vol. 1. London: Macmillan and Co., Ltd., 1912.
+- Stein, Aurel. _Ruins of desert Cathay: personal narrative of explorations in Central Asia and westernmost China._ Vol. 2. London: Macmillan and Co., Ltd., 1912.
+- Stein, Aurel. _Sand buried ruins of Khotan: personal narrative of a journey of archaeological & geographical exploration in Chinese Turkestan, by M. Aurel Stein, with a map from original surveys and numerous illustrations._ London: Hurst, 1904.
+- Stein, Aurel. _Serindia: detailed report of explorations in Central Asia and westernmost China carried out and described under the orders of H.M. Indian Government._ Vol. 1. Oxford: Clarendon Press, 1921.
+- Stein, Aurel. _Serindia: detailed report of explorations in Central Asia and westernmost China carried out and described under the orders of H.M. Indian Government._ Vol. 2. Oxford: Clarendon Press, 1921.
+- Stein, Aurel. _Serindia: detailed report of explorations in Central Asia and westernmost China carried out and described under the orders of H.M. Indian Government._ Vol. 3. Oxford: Clarendon Press, 1921.
+- Stein, Aurel. _Serindia: detailed report of explorations in Central Asia and westernmost China carried out and described under the orders of H.M. Indian Government._ Vol. 4. Oxford: Clarendon Press, 1921.
+- Stein, Aurel. _Serindia: detailed report of explorations in Central Asia and westernmost China carried out and described under the orders of H.M. Indian Government._ Vol. 5. Oxford: Clarendon Press, 1921.
 - Stone, Darwell. *Outlines of Christian Dogma.* London: Longmans, 1903
 - The Church in Wales. *The Book of Common Prayer for Use in the Church in Wales*. South Glamorgan, Wales: Church in Wales Publications, 1984.
 - The Church of Ireland. *Book of Common Prayer.* Dublin: Columba Press, 2004.
