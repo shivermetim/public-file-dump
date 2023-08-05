@@ -121,6 +121,14 @@ Book Wish List (Fiction, Poetry Memoir & Biography) 2022.11.19 19:05
 - Tolkien, J. R. R. *Beren and Lúthien*. HarperCollins, 2017.
 - Tolkien, J. R. R. *The Fall of Gondolin*. HarperCollins, 2018.
 - Tolkien, J. R. R. *The Nature of Middle-Earth: Late Writings on the Lands, Inhbitants, and Metaphysics of Middle-Earth*. Edited by Carl F. Hostetter, HarperCollins, 2021.
+- Hammond, Wayne G., and Christina Scull. *The Lord of the Rings: A Reader’s Companion.* HarperCollins, 2014.
+- Drout, Michael D. C., editor. *J.R.R. Tolkien Encyclopedia: Scholarship and Critical Assessment.* 
+- Routledge, 2013.
+- McIlwaine, Catherine. *Tolkien: Maker of Middle-Earth.* Bodleian Library, University of Oxford, 2018
+- Fliss, William M., and Sarah C. Schaefer. *J.R.R. Tolkien: The Art of the Manuscript.* Haggerty Museum of Art, Marquette University, 2022.
+- Tolkien, J. R. R., et al. *The Art of the Lord of the Rings.* HarperCollinsPublishers, 2015.
+- Hammond, Wayne G., et al. *The Art of the Hobbit by J.R.R.* Tolkien. HarperCollins, 2011.
+- Shippey, T. A. *The Road to Middle-Earth.* Allen & Unwin, 1982.
 ## Children's
 - Alexander, Lloyd. *The Foundling and Other Tales of Prydain*. Henry Holt, 2006.
 - Barklem, Jill. *The Complete Brambly Hedge*. HarperCollins Children’s Books, 2020.
