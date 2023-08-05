@@ -286,7 +286,6 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Bays, Daniel H. *A New History of Christianity in China.* Wiley-Blackwell, 2012.
 - Dickens, Mark. *Echoes of a Forgotten Presence: Reconstructing the History of the Church of the East in Central Asia.* Lit, 2020.
 - Gilman, Ian, and Hans-Joachim Klimkeit. *Christians in Asia before 1500.* 2016.
-- Malek, Roman, et al., editors. *Jingjiao: The Church of the East in China and Central Asia.* Routledge, 2022.
 - Tang, Li, and Dietmar W. Winkler, editors. *Artifact, Text, Context: Studies on Syriac Christianity in China and Central Asia.* LiT, 2020.
 - Tang, Li, and Dietmar W. Winkler, editors. *From the Oxus River to the Chinese Shores: Studies on East Syriac Christianity in China and Central Asia.* LIT, 2013.
 - Tang, Li, and Dietmar W. Winkler, editors. *Winds of Jingjiao: Studies on Syriac Christianity in China and Central Asia.* Lit Verlag, 2016.
@@ -375,6 +374,10 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Gibson, Jonathan, editor. *Reformation Worship: Liturgies from the Past for the Present.* New Growth Press, 2018.
 - Jasper, Ronald Claud Dudley, et al., editors. *Prayers of the Eucharist: Early and Reformed: Texts Translated and Edited with Introductions.* 4th ed. Liturgical Press, 2019.
 - Sirgy, Dominique. *Shbītho: Monastic prayers from the Syriac tradition*. Gorgias Press, 2023.
+- *Consecrations, Blessings + Prayers: A Pastoral Companion to the Ritual and to the Book of Blessings.* Second edition, Canterbury Press Norwich, 2018.
+- Ward, Tess. *Alternative Pastoral Prayers: Liturgies and Blessings for Health and Healing, Beginnings and Endings.* Canterbury Press, 2012.
+- Ellis, Christopher J., and Myra Blyth. *Gathering for Worship: Patterns and Prayers for the Community of Disciples.* Canterbury Press, 2007.
+- *Funeral Services of the Christian Churches in England: Including Additional Hymn Section.* 4th ed., Canterbury Press, 2011.
 #### Church of England
 - Arens, Johannes, et al. *The Richard III Reinterment Liturgies: An Account of the Planning and Execution of the Ceremonies and Liturgical Reburial of the Bones of King Richard III in Leicester Cathedral in Passion Week 2015*. Hymns Ancient and Modern, 2016.
 - Church of England. *Common Worship: Additional Eucharistic Prayers: With Guidance on Celebrating the Eucharist with Children.* Church House Publishing, 2012.
