@@ -27,6 +27,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - [History](#history)
   - [Genocide](#genocide)
   - [History of Computer Science](#history-of-computer-science)
+  - [WORKING](#working)
   
 # Indigenous Australia 
 - Charles River Editors. *The Aborigines and Maori: The History of the Indigenous Peoples in Australia and New Zealand.* 2018. 
@@ -136,6 +137,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Gaunt, David, et al., editors. *Let Them Not Return: Sayfo: The Genocide against the Assyrian, Syriac and Chaldean Christians in the Ottoman Empire.* Berghahn, 2017.
 - Smith, Evan. *Histories of Fascism and Anti-Fascism in Australia.* Routledge, 2023.
 - Trofimov, Yaroslav. _The Siege of Mecca: The Forgotten Uprising in Islam’s Holiest Shrine and the Birth of al Qaeda._ Doubleday, 2007.
+- Turse, Nick. _Kill Anything That Moves: The Real American War in Vietnam._ Picador, 2014.
 ## Genocide 
 - Jones, Adam. *Genocide: A Comprehensive Introduction.* 3rd ed., Routledge, Taylor & Francis Group, 2017. 
 ## History of Computer Science 

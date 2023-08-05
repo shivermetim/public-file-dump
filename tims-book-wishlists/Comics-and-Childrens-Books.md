@@ -38,9 +38,12 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - [Dr Seuss](#dr-seuss)
 
 # Independent, Image, Darkhorse, IDW &c.
-!!! note N.B.
-*This category includes subsidiaries such as DC's Vertigo, and other IPs from Marvel & DC such as Marvel's Star Wars comics*
-!!!
+
+╔══════════════════════════════════════════════╗
+║ This category includes subsidiaries such as  ║
+║ DC's Vertigo, and other IPs from Marvel & DC ║
+║ such as Marvel's Star Wars comics            ║
+╚══════════════════════════════════════════════╝
 
 - Appollo, et al. *Bourbon Island 1730*. 1st ed, First Second, 2008.
 - Brubaker, Ed, Sean Phillips, et al. *Fatale*. Image Comics, Inc, 2012.
@@ -271,9 +274,12 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 
 # Franco-Belgian Comics
 ## Asterix
-!!! note N.B.
-I'm looking for hardcovers, new or reasonably well-kept second-hand.
-!!!
+
+╔══════════════════════════════════════════════╗
+║ I'm looking for hardcovers, new or           ║
+║ reasonably well-kept second-hand.            ║
+╚══════════════════════════════════════════════╝
+
 - Asterix the Gaul (1961)
 - Asterix and the Golden Sickle (1962)
 - Asterix and the Goths (1963)
@@ -311,10 +317,21 @@ I'm looking for hardcovers, new or reasonably well-kept second-hand.
 - Asterix and the Picts (2013)
 - Asterix and the Missing Scroll (2015)
 - Asterix and the Chariot Race (2017)
-## Blueberry 
-!!! note N.B.
-These are a series of Franco-Belgian comics (like Astrix and Tintin, but more mature in tone) set in the old west. They were originally published in French and are incredibly difficult to find in English translation. For the record they're about a character called Lieutennant Blueberry. That's his name. I'm not just asking for random comic books about berries, but if you find one that'd also be cool.
-!!!
+## Blueberry
+
+╔══════════════════════════════════════════════╗
+║ These are a series of Franco-Belgian comics  ║
+║ (like Astrix and Tintin, but more mature in  ║
+║ tone) set in the old west. They were         ║
+║ originally published in French and are       ║
+║ incredibly difficult to find in English      ║
+║ translation. For the record they're about a  ║
+║ character called Lieutennant Blueberry.      ║
+║ That's his name. I'm not just asking for     ║
+║ random comic books about berries, but if you ║
+║ find one that'd also be cool.                ║
+╚══════════════════════════════════════════════╝
+
 - Charlier, Jean-Michel and Moebius. *Lieutenant Blueberry: Fort Navajo.* Dargaud: Paris, 1977.
 - Charlier, Jean-Michel and Moebius. *Lieutenant Blueberry: Thunder in the West.* Dargaud: Paris, 1977.
 - Charlier, Jean-Michel, et al. *Lieutenant Blueberry: Lone Eagle.* Dargaud: Paris, 1978.
@@ -331,9 +348,11 @@ These are a series of Franco-Belgian comics (like Astrix and Tintin, but more ma
 - Charlier, Jean-Michel, et al. *The End of the Trail* New York: Epic Comics, or Graffiti Designs, 1990. 
 - Charlier, Jean-Michel, et al. *The Blueberry Saga #1: The Confederate Gold* Austin TX: Mojo Press, 1996. 
 ## Tin-Tin
-!!! note N.B.
-I'm looking for hardcovers, new or reasonably well-kept second-hand.
-!!!
+
+╔══════════════════════════════════════════════╗
+║ I'm looking for hardcovers, new or           ║
+║ reasonably well-kept second-hand.            ║
+╚══════════════════════════════════════════════╝
 
 - Tintin in the Land of the Soviets
 - Tintin in the Congo

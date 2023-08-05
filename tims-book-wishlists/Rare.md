@@ -1,8 +1,14 @@
 Tim's Book Wish List (Rare) 2022.11.12 12:51
 
-!!!note
-My go-to site for rare and antique books is www.bookfinder.com. Typically I'm not fussed if the book is poor quality, and for the books listed below, I would like originals, not print-on-demand reprints. This is not necessarily the case with antique books in other lists. 
-!!!
+╔══════════════════════════════════════════════╗
+║ My go-to site for rare and antique books is  ║
+║ www.bookfinder.com. Typically I'm not fussed ║
+║ if the book is poor quality, and for the     ║
+║ books listed below, I would like originals,  ║
+║ not print-on-demand reprints. This is not    ║
+║ necessarily the case with antique books in   ║
+║ other lists.                                 ║
+╚══════════════════════════════════════════════╝
 
 # Table of contents
 
