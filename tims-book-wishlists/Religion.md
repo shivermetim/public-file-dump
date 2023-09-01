@@ -59,6 +59,7 @@ Tim's Book Wish List (Religious Studies) 2022.11.19 19:04
 - Parpola, Asko. *The Roots of Hinduism: The Early Aryans and the Indus Civilization.* Oxford University Press, 2015.
 - Richard Foltz, *Religions of Iran: From Prehistory to the Present,* London: Oneworld, 2013.
 - Sarma, Deepak, editor. *Hinduism: A Reader.* Blackwell Pub, 2008
+- Vidyābhūṣaṇa, Śrīla Baladeva. *Gītā Bhūṣaṇa: Srimad Bhagavad Gita commentary by Śrīla Baladeva Vidyābhūṣaṇa*. 2006.
 
 ---
 
