@@ -24,6 +24,7 @@ Book Wish List (History) 2023.03.27 01:23
   - [Australia](#australia)
   - [New Zealand](#new-zealand)
 - [Popular Music](#popular-music)
+
 # History of Computer Science
 - Bruderer, Herbert. *Milestones in Analog and Digital Computing.* Third edition. Springer Nature, 2020.
 - Dear, Brian. *The Friendly Orange Glow: The Untold Story of the PLATO System and the Dawn of Cyberculture.* Pantheon Books, 2017.
@@ -129,6 +130,7 @@ Book Wish List (History) 2023.03.27 01:23
 - Judt, Tony. *Postwar: A History of Europe since 1945.* Penguin Books, 2006.
 - Moberg, Vilhelm. *A History of the Swedish People.* University of Minnesota Press, 2005.
 - Sawyer, Birgit, and P. H. Sawyer. *Medieval Scandinavia: From Conversion to Reformation, circa 800-1500.* University of Minnesota Press, 1993.
+- Preston, Paul, editor. *The Spanish Holocaust: Inquisition and Extermination in Twentieth-Century Spain.* Norton, 2013.
 ### WWII & Third Reich
 - Evans, Richard J. *The Third Reich in Power.* Penguin Books, 2006.
 - Overy, R. J., editor. T*he Oxford Illustrated History of World War II.* First edition, Oxford University Press, 2015.
