@@ -144,6 +144,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 ## History of Computer Science 
 - Earls, Alan R. *Digital Equipment Corporation.* Arcadia, 2004. 
 - Schein, Edgar H., editor. *DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation.* Berrett-Koehler, 2004. 
+- Müller, Jens, and Julius Wiedemann, editors. *The Computer: A History from the 17th Century to Today.* Taschen, 2023.
 
 ---
 
