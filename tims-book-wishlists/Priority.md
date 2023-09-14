@@ -48,6 +48,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Freeman, Austin M., editor. *Theology and H.P. Lovecraft.* Lexington Books/Fortress Academic, 2022.
 - Havea, Jione, et al., editors. *Theology as Threshold: Invitations from Aotearoa New Zealand.* Lexington Books/Fortress Academic, 2022.
 - Dyrness, William A., and Veli-Matti Kärkkäinen, editors. *Global Dictionary of Theology: A Resource for the Worldwide Church.* IVP Academic, 2008.
+- Berry, Damon T. *The New Apostolic Reformation, Trump, and Evangelical Politics: The Prophecy Voter.* Bloomsbury Academic, 2023.
 ## Biblical Studies 
 - Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003. 
 ## Historical Theology 
