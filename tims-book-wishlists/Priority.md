@@ -116,7 +116,10 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Bradshaw, Paul F., editor. *Essays on Early Eastern Eucharistic Prayers.* Liturgical Press, 1997.
 - Varghese, Baby. *Syriac Liturgy in India.* Harrassowitz, 2023.
 ### Liturgical Theology 
-- Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003. 
+- Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003.
+- Douglas, Brian E. *A Companion to Anglican Eucharistic Theology: The 20th Century to the Present.* Vol 2. Brill, 2012.
+- Douglas, Brian E. *A Companion to Anglican Eucharistic Theology: The Reformation to the 19th Century.* Vol 1. Brill, 2011.
+
 ### Liturgical History 
 - Bradshaw, Paul F., and Maxwell E. Johnson. *The Origins of Feasts, Fasts, and Seasons in Early Christianity.* SPCK & Liturgical Press, 2011. 
 - Douglas, Brian. *The Anglican Eucharist in Australia: The History, Theology, and Liturgy of the Eucharist in the Anglican Church of Australia.* Brill, 2022. 
