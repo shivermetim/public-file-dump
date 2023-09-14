@@ -1,14 +1,12 @@
 Tim's Book Wish List (Priority) 2023.04.12 13:59
 
+```
 ╔══════════════════════════════════════════════╗
-
 ║ Warning! The following books have not        ║
-
 ║ necessarily been removed from the other      ║
-
 ║ lists. Communicate well to avoid double ups. ║
-
 ╚══════════════════════════════════════════════╝
+```
 
 # Table of contents
 
@@ -105,6 +103,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Gray, Donald. *The 1927-28 Prayer Book Crisis. Vol. 1.* SCM, 2005.
 - Handschy, Daniel J., et al., editors. *A Eucharist-Shaped Church: Prayer, Theology, Mission.* Lexington Books, 2022.
 - Perczel, István, et al., editors. *The Eucharist in Theology and Philosophy: Issues of Doctrinal History in East and West from the Patristic Age to the Reformation.* Leuven University Press, 2005.
+- Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002.
 ### Liturgical Texts 
 - Atwell, Robert. *Celebrating the Saints: Daily Spiritual Readings for the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church & the Church in Wales.* Canterbury Press, 2017. 
 - Buchanan, Colin Ogilvie, editor. *Latest Anglican Liturgies, 1976-1984.* SPCK ; Grove Books, 1985. 
