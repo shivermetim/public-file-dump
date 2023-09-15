@@ -1,4 +1,4 @@
-Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
+rTim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 
 # Table of contents
 
@@ -395,7 +395,6 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - Thidwick The Big-Hearted Moose (1948)
 - Bartholomew And The Oobleck (1949)
 - If I Ran the Zoo (1950)
-- Scrambled Eggs Super! (1953)
 - Horton Hears A Who! (1954)
 - On Beyond Zebra (1955)
 - How The Grinch Stole Christmas (1957) 
@@ -405,13 +404,10 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - I Can Lick 30 Tigers Today! And Other Stories (1969) 
 - My Book About Me (1969)
 - I Can Draw It Myself (1970)
-- Mr Brown Can Moo! Can You? (1970)
 - The Shape Of Me And Other Stuff (1973)
 - Great Day For Up (1974)
-- I Can Read With My Eyes Shut! (1978)
 - Oh, Say Can You Say? (1979)
 - Hunches In Bunches (1982)
 - You're Only Old Once! (1986)
 - I am Not Going to Get Up Today (1987) 
-- Oh, The Places You'll Go! (1990)
 - The Bippolo Seed and Other Lost Stories (2011)
