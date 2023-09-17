@@ -1,5 +1,6 @@
 Tim's Book Wish List (Rare) 2022.11.12 12:51
 
+```
 ╔══════════════════════════════════════════════╗
 ║ My go-to site for rare and antique books is  ║
 ║ www.bookfinder.com. Typically I'm not fussed ║
@@ -9,6 +10,7 @@ Tim's Book Wish List (Rare) 2022.11.12 12:51
 ║ necessarily the case with antique books in   ║
 ║ other lists.                                 ║
 ╚══════════════════════════════════════════════╝
+```
 
 # Table of contents
 

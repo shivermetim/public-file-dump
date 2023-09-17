@@ -1,10 +1,12 @@
 Tim's Book Wish List (Priority) 2023.04.12 13:59
 
+```
 ╔══════════════════════════════════════════════╗
 ║ Warning! The following books have not        ║
 ║ necessarily been removed from the other      ║
 ║ lists. Communicate well to avoid double ups. ║
 ╚══════════════════════════════════════════════╝
+```
 
 # Table of contents
 
@@ -46,6 +48,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Freeman, Austin M., editor. *Theology and H.P. Lovecraft.* Lexington Books/Fortress Academic, 2022.
 - Havea, Jione, et al., editors. *Theology as Threshold: Invitations from Aotearoa New Zealand.* Lexington Books/Fortress Academic, 2022.
 - Dyrness, William A., and Veli-Matti Kärkkäinen, editors. *Global Dictionary of Theology: A Resource for the Worldwide Church.* IVP Academic, 2008.
+- Berry, Damon T. *The New Apostolic Reformation, Trump, and Evangelical Politics: The Prophecy Voter.* Bloomsbury Academic, 2023.
 ## Biblical Studies 
 - Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003. 
 ## Historical Theology 
@@ -101,6 +104,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Gray, Donald. *The 1927-28 Prayer Book Crisis. Vol. 1.* SCM, 2005.
 - Handschy, Daniel J., et al., editors. *A Eucharist-Shaped Church: Prayer, Theology, Mission.* Lexington Books, 2022.
 - Perczel, István, et al., editors. *The Eucharist in Theology and Philosophy: Issues of Doctrinal History in East and West from the Patristic Age to the Reformation.* Leuven University Press, 2005.
+- Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002.
 ### Liturgical Texts 
 - Atwell, Robert. *Celebrating the Saints: Daily Spiritual Readings for the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church & the Church in Wales.* Canterbury Press, 2017. 
 - Buchanan, Colin Ogilvie, editor. *Latest Anglican Liturgies, 1976-1984.* SPCK ; Grove Books, 1985. 
@@ -112,7 +116,10 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Bradshaw, Paul F., editor. *Essays on Early Eastern Eucharistic Prayers.* Liturgical Press, 1997.
 - Varghese, Baby. *Syriac Liturgy in India.* Harrassowitz, 2023.
 ### Liturgical Theology 
-- Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003. 
+- Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003.
+- Douglas, Brian E. *A Companion to Anglican Eucharistic Theology: The 20th Century to the Present.* Vol 2. Brill, 2012.
+- Douglas, Brian E. *A Companion to Anglican Eucharistic Theology: The Reformation to the 19th Century.* Vol 1. Brill, 2011.
+
 ### Liturgical History 
 - Bradshaw, Paul F., and Maxwell E. Johnson. *The Origins of Feasts, Fasts, and Seasons in Early Christianity.* SPCK & Liturgical Press, 2011. 
 - Douglas, Brian. *The Anglican Eucharist in Australia: The History, Theology, and Liturgy of the Eucharist in the Anglican Church of Australia.* Brill, 2022. 

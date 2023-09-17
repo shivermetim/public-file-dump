@@ -1,4 +1,4 @@
-Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
+rTim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 
 # Table of contents
 
@@ -39,11 +39,13 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 
 # Independent, Image, Darkhorse, IDW &c.
 
+```
 ╔══════════════════════════════════════════════╗
 ║ This category includes subsidiaries such as  ║
 ║ DC's Vertigo, and other IPs from Marvel & DC ║
 ║ such as Marvel's Star Wars comics            ║
 ╚══════════════════════════════════════════════╝
+```
 
 - Appollo, et al. *Bourbon Island 1730*. 1st ed, First Second, 2008.
 - Brubaker, Ed, Sean Phillips, et al. *Fatale*. Image Comics, Inc, 2012.
@@ -275,10 +277,12 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 # Franco-Belgian Comics
 ## Asterix
 
+```
 ╔══════════════════════════════════════════════╗
 ║ I'm looking for hardcovers, new or           ║
 ║ reasonably well-kept second-hand.            ║
 ╚══════════════════════════════════════════════╝
+```
 
 - Asterix the Gaul (1961)
 - Asterix and the Golden Sickle (1962)
@@ -319,6 +323,7 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - Asterix and the Chariot Race (2017)
 ## Blueberry
 
+```
 ╔══════════════════════════════════════════════╗
 ║ These are a series of Franco-Belgian comics  ║
 ║ (like Astrix and Tintin, but more mature in  ║
@@ -331,6 +336,7 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 ║ random comic books about berries, but if you ║
 ║ find one that'd also be cool.                ║
 ╚══════════════════════════════════════════════╝
+```
 
 - Charlier, Jean-Michel and Moebius. *Lieutenant Blueberry: Fort Navajo.* Dargaud: Paris, 1977.
 - Charlier, Jean-Michel and Moebius. *Lieutenant Blueberry: Thunder in the West.* Dargaud: Paris, 1977.
@@ -349,10 +355,12 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - Charlier, Jean-Michel, et al. *The Blueberry Saga #1: The Confederate Gold* Austin TX: Mojo Press, 1996. 
 ## Tin-Tin
 
+```
 ╔══════════════════════════════════════════════╗
 ║ I'm looking for hardcovers, new or           ║
 ║ reasonably well-kept second-hand.            ║
 ╚══════════════════════════════════════════════╝
+```
 
 - Tintin in the Land of the Soviets
 - Tintin in the Congo
@@ -387,7 +395,6 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - Thidwick The Big-Hearted Moose (1948)
 - Bartholomew And The Oobleck (1949)
 - If I Ran the Zoo (1950)
-- Scrambled Eggs Super! (1953)
 - Horton Hears A Who! (1954)
 - On Beyond Zebra (1955)
 - How The Grinch Stole Christmas (1957) 
@@ -397,13 +404,10 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - I Can Lick 30 Tigers Today! And Other Stories (1969) 
 - My Book About Me (1969)
 - I Can Draw It Myself (1970)
-- Mr Brown Can Moo! Can You? (1970)
 - The Shape Of Me And Other Stuff (1973)
 - Great Day For Up (1974)
-- I Can Read With My Eyes Shut! (1978)
 - Oh, Say Can You Say? (1979)
 - Hunches In Bunches (1982)
 - You're Only Old Once! (1986)
 - I am Not Going to Get Up Today (1987) 
-- Oh, The Places You'll Go! (1990)
 - The Bippolo Seed and Other Lost Stories (2011)
