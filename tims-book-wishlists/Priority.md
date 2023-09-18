@@ -107,7 +107,6 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002.
 ### Liturgical Texts 
 - Atwell, Robert. *Celebrating the Saints: Daily Spiritual Readings for the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church & the Church in Wales.* Canterbury Press, 2017. 
-- Buchanan, Colin Ogilvie, editor. *Latest Anglican Liturgies, 1976-1984.* SPCK ; Grove Books, 1985. 
 - Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002. 
 - Church of South India. *Book of Common Worship.* Bangalore: Church of South India, 2004.
 - Jasper, Ronald Claud Dudley, et al., editors. *Prayers of the Eucharist: Early and Reformed: Texts Translated and Edited with Introductions.* Fourth Edition, Liturgical Press, 2019. 
