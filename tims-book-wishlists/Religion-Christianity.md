@@ -466,8 +466,6 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Buchanan, Colin O., editor. *Modern Anglican Ordination Rites.* Grove Books, 1987.
 - Buchanan, Colin O., editor. *The Hampton Court Conference and the 1604 Book of Common Prayer with Related Documents, Introduction and Annotation.* Alcuin Club and the Group for Renewal of Worship, 2009.
 - Buchanan, Colin O., editor. *The Savoy Conference Revisited: The Proceedings Taken from the Grand Debate of 1661 and the Works of Richard Baxter.* Grove Books, Ltd, 2002.
-- Buchanan, Colin Ogilvie, editor. *Further Anglican Liturgies, 1968-1975.* Grove Books, 1975.
-- Buchanan, Colin, and Roger T. Beckwith. *Modern Anglican Liturgies, 1958-1968.* Oxford University Press, 1968.
 - Cramer, Jared C. *Percy Dearmer Revisited: Discerning Authentically Anglican Liturgy in a Multicultural, Ecumenical, Twenty-First-Century Context.* Wipf & Stock, 2020.
 - Cruickshank, Dan D. *The Theology and Ecclesiology of the Prayer Book Crisis, 1906-1928.* Palgrave Macmillan, 2019.
 - Cuming, Geoffrey. *A History of Anglican Liturgy.* 2nd ed, Palgrave Macmillan Limited, 2016.
