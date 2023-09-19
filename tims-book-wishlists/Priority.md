@@ -114,6 +114,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 ### Eastern Liturgies 
 - Bradshaw, Paul F., editor. *Essays on Early Eastern Eucharistic Prayers.* Liturgical Press, 1997.
 - Varghese, Baby. *Syriac Liturgy in India.* Harrassowitz, 2023.
+- Gīwargīs Wardā, et al. *The Wardā: an East Syriac hymnological collection* Harrassowitz Verlag, 2015.
 ### Liturgical Theology 
 - Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003.
 - Douglas, Brian E. *A Companion to Anglican Eucharistic Theology: The 20th Century to the Present.* Vol 2. Brill, 2012.
