@@ -145,6 +145,7 @@ Tim's Book Wish List (Philosophy, Political & Social Science) 2022.11.12 12:49
 - Trotsky, Leon. *Fascism: What it is and How to Fight it.*
 - Ulyanov (Lenin), Vladimir Ilyich. *Essential Works of Lenin: ‘What Is to Be Done?’ And Other Writings.* Dover Publications, 1987.
 - Ulyanov (Lenin), Vladimir Ilyich. *Imperialism: The Highest Stage of Capitalism.* Жизнь и знание, 1917.
+- Rothschild, Mike. *Jewish Space Lasers: The Rothschilds and 100 Years of Conspiracy Theories.* Melville House, 2023.
 
 ---
 
