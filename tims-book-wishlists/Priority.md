@@ -9,8 +9,8 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 ```
 
 # Table of contents
-
 - [Table of contents](#table-of-contents)
+- [Misc](#misc)
 - [Indigenous Australia](#indigenous-australia)
 - [Christianity](#christianity)
   - [Biblical Studies](#biblical-studies)
@@ -29,8 +29,11 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - [History](#history)
   - [Genocide](#genocide)
   - [History of Computer Science](#history-of-computer-science)
-  - [WORKING](#working)
   
+
+# Misc
+- Berger, Sidney E. *The Dictionary of the Book: A Glossary for Book Collectors, Booksellers, Librarians, and Others.* Second edition, Rowman & Littlefield, 2022.
+
 # Indigenous Australia 
 - Charles River Editors. *The Aborigines and Maori: The History of the Indigenous Peoples in Australia and New Zealand.* 2018. 
 - Lassak, E. V., and Tara McCarthy. *Australian Medicinal Plants: A Complete Guide to Identification and Usage.* Reed New Holland, 2012. 
@@ -42,13 +45,13 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 ---
 
 # Christianity 
-- Louth, Andrew, et al., editor. *The Oxford Dictionary of the Christian Church.* 4th ed., Oxford University Press, 2022. 
-- Sansom, Clive. *Cathedral*. Routledge, 2023.
-- Martin, Lerone A. *The Gospel of J. Edgar Hoover: How the FBI Aided and Abetted the Rise of White Christian Nationalism.* Princeton University Press, 2023.
+- Berry, Damon T. *The New Apostolic Reformation, Trump, and Evangelical Politics: The Prophecy Voter.* Bloomsbury Academic, 2023.
+- Dyrness, William A., and Veli-Matti Kärkkäinen, editors. *Global Dictionary of Theology: A Resource for the Worldwide Church.* IVP Academic, 2008.
 - Freeman, Austin M., editor. *Theology and H.P. Lovecraft.* Lexington Books/Fortress Academic, 2022.
 - Havea, Jione, et al., editors. *Theology as Threshold: Invitations from Aotearoa New Zealand.* Lexington Books/Fortress Academic, 2022.
-- Dyrness, William A., and Veli-Matti Kärkkäinen, editors. *Global Dictionary of Theology: A Resource for the Worldwide Church.* IVP Academic, 2008.
-- Berry, Damon T. *The New Apostolic Reformation, Trump, and Evangelical Politics: The Prophecy Voter.* Bloomsbury Academic, 2023.
+- Louth, Andrew, et al., editor. *The Oxford Dictionary of the Christian Church.* 4th ed., Oxford University Press, 2022. 
+- Martin, Lerone A. *The Gospel of J. Edgar Hoover: How the FBI Aided and Abetted the Rise of White Christian Nationalism.* Princeton University Press, 2023.
+- Sansom, Clive. *Cathedral*. Routledge, 2023.
 ## Biblical Studies 
 - Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003. 
 ## Historical Theology 
@@ -63,9 +66,10 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Sutton, Matthew Avery. *American Apocalypse: A History of Modern Evangelicalism.* First Harvard University Press paperback edition, The Belknap Press of Harvard University Press, 2017.
 ### Eastern Christianity 
 - Baumer, Christoph. *The Church of the East: An Illustrated History of Assyrian Christianity.* I.B. Tauris, 2016. 
+- Coakley, J. F. *The Church of the East and the Church of England: A History of the Archbishop of Canterbury’s Assyrian Mission.* Clarendon Press/Oxford University Press, 1992.
 - Dickens, Mark. *Echoes of a Forgotten Presence: Reconstructing the History of the Church of the East in Central Asia.* LIT, 2020. 
 - Frykenberg, Robert Eric. *Christianity in India: From Beginnings to the Present.* Oxford University Press, 2010.
-- Coakley, J. F. *The Church of the East and the Church of England: A History of the Archbishop of Canterbury’s Assyrian Mission.* Clarendon Press/Oxford University Press, 1992.
+- Meaza, Esubalew. *Ascending to Heaven: Ancient Churches and Monasteries of Ethiopia.* infoAddis, 2019.
 ### Anglicanism 
 - Bray, Gerald Lewis. *Anglicanism: A Reformed Catholic Tradition.* Lexham Press, 2021. 
 - Chapman, Mark D., and Jeremy Bonner, editors. *Costly Communion: Ecumenical Initiative and Sacramental Strife in the Anglican Communion.* Brill, 2019. 
@@ -95,31 +99,29 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Starr, Chloë. A Reader in Chinese Theology. Baylor University Press, 2022.
 - Thiselton, Anthony C. *Systematic Theology.* Eerdmans Publishing Company, 2015.
 ## Liturgy 
+- Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002.
 - Chupungco, Anscar J., editor. *Handbook for Liturgical Studies Volume I: Introduction to the Liturgy.* Liturgical Press, 1997.
 - Chupungco, Anscar J., editor. *Handbook for Liturgical Studies, Volume II: Fundamental Liturgy.* Liturgical Press, 1998.
 - Chupungco, Anscar J., editor. *Handbook for Liturgical Studies, Volume III: The Eucharist.* Liturgical Press, 1999.
 - Chupungco, Anscar J., editor. *Handbook for Liturgical Studies, Volume IV: Sacraments and Sacramentals.* Liturgical Press, 2000.
 - Chupungco, Anscar J., editor. *Handbook for Liturgical Studies, Volume V: Liturgical Time and Space.* Liturgical Press, 2000.
-- Gray, Donald. *The 1927-28 Prayer Book Crisis. Vol. 2.* SCM, 2006.
 - Gray, Donald. *The 1927-28 Prayer Book Crisis. Vol. 1.* SCM, 2005.
+- Gray, Donald. *The 1927-28 Prayer Book Crisis. Vol. 2.* SCM, 2006.
 - Handschy, Daniel J., et al., editors. *A Eucharist-Shaped Church: Prayer, Theology, Mission.* Lexington Books, 2022.
 - Perczel, István, et al., editors. *The Eucharist in Theology and Philosophy: Issues of Doctrinal History in East and West from the Patristic Age to the Reformation.* Leuven University Press, 2005.
-- Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002.
 ### Liturgical Texts 
 - Atwell, Robert. *Celebrating the Saints: Daily Spiritual Readings for the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church & the Church in Wales.* Canterbury Press, 2017. 
 - Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002. 
-- Church of South India. *Book of Common Worship.* Bangalore: Church of South India, 2004.
 - Jasper, Ronald Claud Dudley, et al., editors. *Prayers of the Eucharist: Early and Reformed: Texts Translated and Edited with Introductions.* Fourth Edition, Liturgical Press, 2019. 
 - Tristam, and Simon Kershaw. *Exciting Holiness: Collects and Readings for the Festivals and Lesser Festivals of the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church and the Church in Wales.* Canterbury Press, 2007. 
 ### Eastern Liturgies 
 - Bradshaw, Paul F., editor. *Essays on Early Eastern Eucharistic Prayers.* Liturgical Press, 1997.
-- Varghese, Baby. *Syriac Liturgy in India.* Harrassowitz, 2023.
 - Gīwargīs Wardā, et al. *The Wardā: an East Syriac hymnological collection* Harrassowitz Verlag, 2015.
+- Varghese, Baby. *Syriac Liturgy in India.* Harrassowitz, 2023.
 ### Liturgical Theology 
-- Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003.
 - Douglas, Brian E. *A Companion to Anglican Eucharistic Theology: The 20th Century to the Present.* Vol 2. Brill, 2012.
 - Douglas, Brian E. *A Companion to Anglican Eucharistic Theology: The Reformation to the 19th Century.* Vol 1. Brill, 2011.
-
+- Shmeman, Aleksandr. *Introduction to Liturgical Theology.* 2nd ed. St. Vladimir’s Seminary Press, 2003.
 ### Liturgical History 
 - Bradshaw, Paul F., and Maxwell E. Johnson. *The Origins of Feasts, Fasts, and Seasons in Early Christianity.* SPCK & Liturgical Press, 2011. 
 - Douglas, Brian. *The Anglican Eucharist in Australia: The History, Theology, and Liturgy of the Eucharist in the Anglican Church of Australia.* Brill, 2022. 
@@ -150,10 +152,5 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Jones, Adam. *Genocide: A Comprehensive Introduction.* 3rd ed., Routledge, Taylor & Francis Group, 2017. 
 ## History of Computer Science 
 - Earls, Alan R. *Digital Equipment Corporation.* Arcadia, 2004. 
-- Schein, Edgar H., editor. *DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation.* Berrett-Koehler, 2004. 
 - Müller, Jens, and Julius Wiedemann, editors. *The Computer: A History from the 17th Century to Today.* Taschen, 2023.
-
----
-
-## WORKING
-- Ascending to Heaven: Ancient Churches and Monasteries of Ethiopia
+- Schein, Edgar H., editor. *DEC Is Dead, Long Live DEC: The Lasting Legacy of Digital Equipment Corporation.* Berrett-Koehler, 2004. 

@@ -50,8 +50,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
   - [Spirituality \& Devotion](#spirituality--devotion)
   - [Liturgy](#liturgy)
     - [Liturgical Texts](#liturgical-texts)
-      - [Church of England](#church-of-england)
-      - [Other Anglican Churches](#other-anglican-churches)
+      - [Anglican](#anglican)
       - [Methodist Churches](#methodist-churches)
       - [Roman Liturgy](#roman-liturgy)
       - [Eastern Liturgy](#eastern-liturgy)
@@ -378,20 +377,36 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Ward, Tess. *Alternative Pastoral Prayers: Liturgies and Blessings for Health and Healing, Beginnings and Endings.* Canterbury Press, 2012.
 - Ellis, Christopher J., and Myra Blyth. *Gathering for Worship: Patterns and Prayers for the Community of Disciples.* Canterbury Press, 2007.
 - *Funeral Services of the Christian Churches in England: Including Additional Hymn Section.* 4th ed., Canterbury Press, 2011.
-#### Church of England
+- *Book of Common Prayer According to the Use in King's Chapel.* Boston: King's Chapel, 1986.
+#### Anglican
+- Anglican Church of Canada. *Book of Common Prayer*. Anglican Book Centre, 1962.
+- Anglican Church of Canada. *For All the Saints: Prayers and Readings for Saints' Days (Revised Edition).* Anglican Book Centre, 2007.
+- Anglican Church of North America. *Book of Common Prayer.* Anglican Liturgy Press, 2019.
+- Anglican Church of Papua New Guinea. *Book of Common Prayer.* Anglican Church of Papua New Guinea, 1991.
 - Arens, Johannes, et al. *The Richard III Reinterment Liturgies: An Account of the Planning and Execution of the Ceremonies and Liturgical Reburial of the Bones of King Richard III in Leicester Cathedral in Passion Week 2015*. Hymns Ancient and Modern, 2016.
-- Church of England. *Common Worship: Additional Eucharistic Prayers: With Guidance on Celebrating the Eucharist with Children.* Church House Publishing, 2012.
-- Church of England. *Common Worship: Festivals.* Church House Publishing, 2008.
-- Church of England. *Common Worship: Pastoral Services.* Church House Pubishing, 2011.
-- Church of England. *Common Worship: Services and Prayers for the Church of England.* Church House Pubishing, 2000.
-- Church of England. *Common Worship: Times and Seasons.* Church House Pubishing, 2013.
-- Church of England. *New Patterns for Worship.* Church House Publishing, 2015.
-- Church of England. *Common Worship: Additional Eucharistic Prayers: With Guidance on Celebrating the Eucharist with Children.* Church House Publishing, 2012.
-- Gray, Donald. *Memorial Services.* SPCK, 2002.
-#### Other Anglican Churches
+- Buchanan, Colin. *Liturgies of the Spanish and Portuguese Reformed Episcopal Churches.* Grove, 1985.
+- Church in Wales. *Book of Common Prayer Vol. I*. Church in Wales Publications, 1984.
+- Church in Wales. *Book of Common Prayer Vol. II*. Church in Wales Publications, 1984.
+- C of E *Common Worship*
+  - Church of England. *Common Worship: Additional Eucharistic Prayers: With Guidance on Celebrating the Eucharist with Children.* Church House Publishing, 2012.
+  - Church of England. *Common Worship: Additional Eucharistic Prayers: With Guidance on Celebrating the Eucharist with Children.* Church House Publishing, 2012.
+  - Church of England. *Common Worship: Festivals.* Church House Publishing, 2008.
+  - Church of England. *Common Worship: Pastoral Services.* Church House Pubishing, 2011.
+  - Church of England. *Common Worship: Services and Prayers for the Church of England.* Church House Pubishing, 2000.
+  - Church of England. *Common Worship: Times and Seasons.* Church House Pubishing, 2013.
+  - Church of England. *New Patterns for Worship.* Church House Publishing, 2015.
 - Church of Ireland. *The Book of Common Prayer.* Columba Books, 2004.
+- Church of North India. *Book of Worship.* ISPCK, 1995.
+- Church of South India. *Book of Common Worship.* Bangalore: Church of South India, 2004.
+- Church of the Province of Melanesia. *A Melanesian English Prayer Book.* Church of the Province of Melanesia, 2003.
 - Dalby, Mark. *Anglican Missals and Their Canons: 1549, Interim Rite and Roman.* Grove Books Ltd, 1998.
+- Episcopal Church. *A Great Cloud of Witnesses.* Church Publishing, 2016.
+- Episcopal Church. *Book of Occasional Services.* Church Publishing, 2022.
+- Episcopal Church. *Lesser Feasts and Fasts.* Church Publishing, 2022.
+- Gray, Donald. *Memorial Services.* SPCK, 2002.
 - Kings, Graham, and Geoff Morgan. *Offerings from Kenya to Anglicanism: Liturgical Texts and Contexts Including A Kenyan Service of Holy Communion.* Grove Books, 2001.
+- Scottish Episcopal Church. *Scottish Liturgy 1982, Revised (2022)*. Scottish Episcopal Church, 2022.
+- Scottish Episcopal Church. *The Scottish Book of Common Prayer*. Cambridge University Press, 1929.
 - Tarrant, Ian. *Anglican Swahili Prayer Books: Tanzania (1995) and Congo (1998).* SCM, 2006.
 #### Methodist Churches
 - The Methodist Church in Britain. *The Methodist Worship Book.* Methodist Publishing House, 1999.
@@ -401,6 +416,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Woolfenden, Graham. *Daily Prayer in Christian Spain: A Study of the Mozarabic Office.* SPCK, 2000.
 - *St. Gregory's Prayer Book.* Ignatius Press, 2018.
 - Anglicanorum Coetibus Society. *Divine Worship: Daily Office.* Commonwealth Edition, Catholic Truth Society, 2022.
+- Anglicanorum Coetibus Society. *Divine Worship: The Missal.* Catholic Truth Society, 2015. 
 #### Eastern Liturgy
 - Varghese, Baby. *The Syriac Version of the Liturgy of St. James: A Brief History for Students.* Grove Books Limited, 2001.
 #### Early Liturgies
