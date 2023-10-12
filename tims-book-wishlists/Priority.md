@@ -49,6 +49,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Dyrness, William A., and Veli-Matti Kärkkäinen, editors. *Global Dictionary of Theology: A Resource for the Worldwide Church.* IVP Academic, 2008.
 - Freeman, Austin M., editor. *Theology and H.P. Lovecraft.* Lexington Books/Fortress Academic, 2022.
 - Havea, Jione, et al., editors. *Theology as Threshold: Invitations from Aotearoa New Zealand.* Lexington Books/Fortress Academic, 2022.
+- Taylor, Joanne. *The Churches of India.* Niyogi Books, 2019.
 - Louth, Andrew, et al., editor. *The Oxford Dictionary of the Christian Church.* 4th ed., Oxford University Press, 2022. 
 - Martin, Lerone A. *The Gospel of J. Edgar Hoover: How the FBI Aided and Abetted the Rise of White Christian Nationalism.* Princeton University Press, 2023.
 - Sansom, Clive. *Cathedral*. Routledge, 2023.
