@@ -60,7 +60,8 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - McGrath, Alister E., editor. *The SPCK Handbook of Anglican Theologians.* SPCK, 1998. 
 - Miller, Ed L., and Stanley J. Grenz. *Fortress Introduction to Contemporary Theologies.* Fortress Press, 1998. 
 - Olson, Roger E. *The Journey of Modern Theology: From Reconstruction to Deconstruction.* IVP Academic, 2013. 
-## Church History 
+## Church History
+- Faraji, Salim. *The Roots of Nubian Christianity Uncovered: The Triumph of the Last Pharaoh*. 2012, Africa World Press.
 - Breward, Ian. *A History of the Churches in Australasia.* Oxford University Press, 2001.
 - Hollinger, David A. *Christianity’s American Fate: How Religion Became More Conservative and Society More Secular.* Princeton University Press, 2022.
 - Piggin, Stuart, and Robert Dean Linder. *Attending to the National Soul: Evangelical Christians in Australian History 1914-2014. Volume II of The Fountain of Public Prosperity.* Monash University Publishing, 2020. 
