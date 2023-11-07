@@ -1,4 +1,4 @@
-rTim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
+Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 
 # Table of contents
 
@@ -393,7 +393,6 @@ rTim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - Horton Hatches the Egg (1940)
 - Thidwick The Big-Hearted Moose (1948)
 - Bartholomew And The Oobleck (1949)
-- If I Ran the Zoo (1950)
 - Horton Hears A Who! (1954)
 - On Beyond Zebra (1955)
 - How The Grinch Stole Christmas (1957) 
