@@ -23,6 +23,9 @@ Tim's Book Wish List (Rare) 2022.11.12 12:51
 - Anglican Church of Southern Africa. *Celebrating Sunday under Southern Skies in an African Voice.* Johannesburg: Anglican Church of Southern Africa, 2017. https://anglicanchurchsa.org/product/celebrating-sunday-cd/
 - Antiochian Orthodox Christian Archdiocese of North America, editor. *The Liturgikon: The Book of Divine Services for the Priest and Deacon.* 2nd ed, Englewood, NJ: Antakya Press, 1994.
 - Barsom, Murad Saliba. *Anaphoras: the Book of the Divine Liturgies According to the Rite of the Syrian Orthodox Church of Antioch.* Lodi, NJ: The Syrian Orthodox Church, 1991
+- Bellair, D. T., Leonard George Whitehouse, and William Hugh Monypenny. _Introduction to Computer Programming in COBOL (MONECS COBOL)._ Monash University Computer Centre, 1977.
+- C. J. Bellamy, D. T. Bellair, D. T. _Computer programming in BASIC (MONECS BASIC)._ Melbourne: Sorrett. 1980.
+- C. J. Bellamy, and Whitehouse, L. G. _An introduction to computer programming in FORTRAN (MONECS FORTRAN)_ Melbourne: Monash University Computer Centre., 1980.
 - Bessant, Judith, and Bob Bessant. *The Growth of a Profession: Nursing in Victoria, 1930s.* Melbourne: La Trobe University Press, 1991.
 - Brilioth, Yngve. 1933. *The Anglican Revival: Studies in the Oxford Movement.* London: Longman, Green, and Co.
 - Brock, Sebastian P, Riccardo Grassetti, and David G. K. Taylor. *The Hidden Pearl: The Syrian Orthodox Church and Its Ancient Aramaic Heritage. Vol. 1, The ancient Aramaic heritage.* Piscataway, NJ: Gorgias Press, 2002. 
@@ -99,9 +102,7 @@ Tim's Book Wish List (Rare) 2022.11.12 12:51
 - Wiles, Valda, and Kathy Daffurn. *There’s a Bird in My Hand and a Bear by the Bed--I Must Be in ICU: The Pivotal Years of Australian Critical Care Nursing.* Surrey Hills, VIC: Australian College of Critical Care Nurses, 2002.
 - Wilmshurst, David. *The Martyred Church: A History of the Church of the East.* London: East & West Publishing Ltd, 2011.
 
----
-
-# Francis J. Halls Dogmatic Theology 
+## Francis J. Halls Dogmatic Theology 
 Hall's Dogmatic Theology was published in ten volumes. I own none of them and don't particularly need the set to match.
 - Volume I: Introduction 
 - Volume II: Authority  
