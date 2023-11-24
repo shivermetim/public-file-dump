@@ -2,9 +2,9 @@ Tim's Book Wish List (Miscellaneous) 2023.03.27 01:26
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Hobbies](#hobbies)
 - [Medical](#medical)
+- [Natural Sciences](#natural-sciences)
 - [Investigative](#investigative)
 - [Coffee Table Books](#coffee-table-books)
 
@@ -16,6 +16,11 @@ Tim's Book Wish List (Miscellaneous) 2023.03.27 01:26
 
 # Medical
 - American Psychiatric Association. *Diagnostic and Statistical Manual of Mental Disorders: DSM-5-TR.* 5th ed, text revision, American Psychiatric Association, 2013.
+
+---
+
+# Natural Sciences
+- Valentine, Peter Sinclair. _World Heritage Sites of Australia._ Second edition., NLA Publishing, 2023.
 
 ---
 
