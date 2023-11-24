@@ -2,7 +2,6 @@ Book Wish List (Fiction, Poetry Memoir & Biography) 2022.11.19 19:05
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Memoir](#memoir)
 - [Auto/Biography](#autobiography)
 - [Poetry](#poetry)
