@@ -14,7 +14,6 @@ Tim's Book Wish List (Rare) 2022.11.12 12:51
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Rare, Hard to Find, or Out of Print](#rare-hard-to-find-or-out-of-print)
 - [Francis J. Halls Dogmatic Theology](#francis-j-halls-dogmatic-theology)
 
