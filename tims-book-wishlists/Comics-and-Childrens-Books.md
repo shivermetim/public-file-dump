@@ -2,7 +2,6 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Independent, Image, Darkhorse, IDW \&c.](#independent-image-darkhorse-idw-c)
   - [East of West](#east-of-west)
   - [Fables](#fables)
