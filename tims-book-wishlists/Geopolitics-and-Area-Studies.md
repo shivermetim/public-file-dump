@@ -2,7 +2,6 @@ Tim's Book Wish List (Geopolitics & Area Studies) 2022.11.12 12:51
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Africa](#africa)
 - [Central Asia](#central-asia)
 - [East Asia](#east-asia)
