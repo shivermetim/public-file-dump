@@ -2,7 +2,6 @@ Tim's Book Wish List (Philosophy, Political & Social Science) 2022.11.12 12:49
 
 # Table of contents
 
-- [Table of contents](#table-of-contents)
 - [Anthropology](#anthropology)
   - [Indigenous Australia](#indigenous-australia)
   - [Papua New Guinea](#papua-new-guinea)
