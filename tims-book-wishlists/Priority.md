@@ -9,7 +9,6 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 ```
 
 # Table of contents
-- [Table of contents](#table-of-contents)
 - [Misc](#misc)
 - [Indigenous Australia](#indigenous-australia)
 - [Christianity](#christianity)
