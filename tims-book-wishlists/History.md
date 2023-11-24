@@ -1,7 +1,6 @@
 Book Wish List (History) 2023.03.27 01:23
 
 # Table of contents
-- [Table of contents](#table-of-contents)
 - [History of Computer Science](#history-of-computer-science)
 - [History of Medicine](#history-of-medicine)
   - [History of Psychiatry, Psychopharmacology](#history-of-psychiatry-psychopharmacology)
