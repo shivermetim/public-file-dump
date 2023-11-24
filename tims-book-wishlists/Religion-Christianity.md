@@ -1,8 +1,6 @@
 Tim's Book Wish List (Christianity) 2023.03.27 18:33
 
 # Table of Contents
-
-- [Table of Contents](#table-of-contents)
 - [Systematic Theology](#systematic-theology)
   - [God](#god)
   - [The Trinity](#the-trinity)
