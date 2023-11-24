@@ -1,8 +1,6 @@
 Tim's Book Wish List (Religious Studies) 2022.11.19 19:04
 
 # Table of contents
-
-- [Table of contents](#table-of-contents)
 - [Religious Studies (General), Theology of Religion](#religious-studies-general-theology-of-religion)
 - [Ancient Near East](#ancient-near-east)
 - [Judaism](#judaism)
