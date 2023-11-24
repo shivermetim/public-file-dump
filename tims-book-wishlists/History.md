@@ -118,7 +118,7 @@ Book Wish List (History) 2023.03.27 01:23
 - Verémīs, Thános M. *A Modern History of the Balkans: Nationalism and Identity in Southeast Europe.* I.B. Tauris, 2017.
 ## Africa
 - Dubow, Saul. *Apartheid, 1948-1994.* Oxford University Press, 2014.
-- Hochschild, Adam, and Barbara Kingsolver. *King Leopold's Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa.* Picador Classic, 2019.
+- Hochschild, Adam. _King Leopold’s Ghost: A Story of Greed, Terror, and Heroism in Colonial Africa._ Second edition., HarperCollins Publishers, 2020.
 - Iliffe, John. *Africans: The History of a Continent.* Third edition, Cambridge University Press, 2017.
 - Reid, Richard J. *A History of Modern Africa: 1800 to the Present.* 2nd ed, Wiley-Blackwell, 2012.
 - Welsh, David. *The Rise and Fall of Apartheid.* Jonathan Ball, 2010.
