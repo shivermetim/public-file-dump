@@ -390,7 +390,6 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 # Dr Seuss
 - The King's Stilts (1939)
 - Horton Hatches the Egg (1940)
-- Thidwick The Big-Hearted Moose (1948)
 - Bartholomew And The Oobleck (1949)
 - Horton Hears A Who! (1954)
 - On Beyond Zebra (1955)
