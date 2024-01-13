@@ -65,6 +65,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Hollinger, David A. *Christianity’s American Fate: How Religion Became More Conservative and Society More Secular.* Princeton University Press, 2022.
 - Piggin, Stuart, and Robert Dean Linder. *Attending to the National Soul: Evangelical Christians in Australian History 1914-2014. Volume II of The Fountain of Public Prosperity.* Monash University Publishing, 2020. 
 - Sutton, Matthew Avery. *American Apocalypse: A History of Modern Evangelicalism.* First Harvard University Press paperback edition, The Belknap Press of Harvard University Press, 2017.
+- Drake, Janine Giordano. *Christianity and the Commonwealth: How Mainline Protestants Vilified Christian Socialism and Fractured the Labor Movement.* Oxford University Press, 2024.
 ### Eastern Christianity 
 - Baumer, Christoph. *The Church of the East: An Illustrated History of Assyrian Christianity.* I.B. Tauris, 2016. 
 - Coakley, J. F. *The Church of the East and the Church of England: A History of the Archbishop of Canterbury’s Assyrian Mission.* Clarendon Press/Oxford University Press, 1992.
