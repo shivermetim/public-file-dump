@@ -393,7 +393,6 @@ Tim's Book Wish List (Comics & Childrens Books) 2023.03.26 17:51
 - Bartholomew And The Oobleck (1949)
 - Horton Hears A Who! (1954)
 - On Beyond Zebra (1955)
-- How The Grinch Stole Christmas (1957) 
 - Yertle The Turtle And Other Stories (1958) 
 - Happy Birthday To You! (1959)
 - The Cat in the Hat Song Book (1967)
