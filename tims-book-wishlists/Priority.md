@@ -112,7 +112,8 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Handschy, Daniel J., et al., editors. *A Eucharist-Shaped Church: Prayer, Theology, Mission.* Lexington Books, 2022.
 - Perczel, István, et al., editors. *The Eucharist in Theology and Philosophy: Issues of Doctrinal History in East and West from the Patristic Age to the Reformation.* Leuven University Press, 2005.
 ### Liturgical Texts 
-- Atwell, Robert. *Celebrating the Saints: Daily Spiritual Readings for the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church & the Church in Wales.* Canterbury Press, 2017. 
+- Atwell, Robert. *Celebrating the Saints: Daily Spiritual Readings for the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church & the Church in Wales.* Canterbury Press, 2017.
+- Bradshaw, Paul F. and Maxwell E. Johnson, eds. *Prayers of the Eucharist: Early and Reformed* Fourth Edition, Liturgical Press, 2019.
 - Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002. 
 - Jasper, Ronald Claud Dudley, et al., editors. *Prayers of the Eucharist: Early and Reformed: Texts Translated and Edited with Introductions.* Fourth Edition, Liturgical Press, 2019. 
 - Tristam, and Simon Kershaw. *Exciting Holiness: Collects and Readings for the Festivals and Lesser Festivals of the Calendars of the Church of England, the Church of Ireland, the Scottish Episcopal Church and the Church in Wales.* Canterbury Press, 2007. 
