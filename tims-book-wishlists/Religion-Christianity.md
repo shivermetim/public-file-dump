@@ -234,6 +234,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Pelikan, Jaroslav Jan. *The Emergence of the Catholic Tradition.* University of Chicago press, 1971.
 - Pelikan, Jaroslav. *The Spirit of Eastern Christendom: 600 - 1700.* University of Chicago Press, 2006.
 - Whitworth, Patrick. *Defining God: Athanasius, Nicaea and the Trinitarian Controversy of the Fourth Century.* Sacristy Press, 2023.
+- Cole, Alan M. *The Old Catholic Phenomenon.* Avon Books, 1997.
 ## Patristics
 - Evans, G. R., editor. *The First Christian Theologians: An Introduction to Theology in the Early Church.* Blackwell Pub, 2004.
 - Aquinas, Thomas. *Summa Theologiae: Complete Set.* Aquinas Inst, 2012.
