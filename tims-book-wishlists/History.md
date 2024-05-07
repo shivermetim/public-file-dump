@@ -102,6 +102,7 @@ Book Wish List (History) 2023.03.27 01:23
 - Hatherley, Owen. *Landscapes of Communism: A History through Buildings.* The New Press, 2015.
 - Sebestyen, Victor. *Revolution 1989: The Fall of the Soviet Empire.* Phoenix, 2010.
 - Suny, Ronald Grigor. *The Soviet Experiment: Russia, the USSR, and the Successor States.* 2nd ed, Oxford University Press, 2011.
+- Wende Museum, et al. _Das DDR-Handbuch: Kunst und Alltagsgegenstände aus der DDR: die DDR-Sammlung des Wendemuseums,_ New edition, Taskhen, 2017.
 #### Balkans
 - Glenny, Misha. *The Fall of Yugoslavia: The Third Balkan War.* 3rd ed, Penguin, 1996.
 - Hopkirk, Kathleen. *Central Asia: Through Writers' Eyes.* Eland, 2013.
