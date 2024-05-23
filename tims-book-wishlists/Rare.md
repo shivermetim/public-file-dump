@@ -1,4 +1,4 @@
-Tim's Book Wish List (Rare) 2022.11.12 12:51
+Tim's Book Wish List (Rare) 2024-05-23 22:27:16 PM
 
 ```
 ╔══════════════════════════════════════════════╗
@@ -100,6 +100,8 @@ Tim's Book Wish List (Rare) 2022.11.12 12:51
 - Wigram, William Ainger. *The Assyrians and Their Neighbours.* London: G. Bell, 1929.
 - Wiles, Valda, and Kathy Daffurn. *There’s a Bird in My Hand and a Bear by the Bed--I Must Be in ICU: The Pivotal Years of Australian Critical Care Nursing.* Surrey Hills, VIC: Australian College of Critical Care Nurses, 2002.
 - Wilmshurst, David. *The Martyred Church: A History of the Church of the East.* London: East & West Publishing Ltd, 2011.
+- Hohne, H. H. & K. W. Walsh. *Surgical modification of the personality: mental health research report.* Melbourne, Victorian Mental Health Authority, 1970.
+- Laitinen, Lauri V. & Kenneth E. Livingston, eds. *Surgical approaches in psychiatry: proceedings of the Third International Congress of Psychosurgery, August 14th-18th, 1972, Cambridge, England.* Lancaster, Medical and Technical Publishing Co., 1973.
 
 ## Francis J. Halls Dogmatic Theology 
 Hall's Dogmatic Theology was published in ten volumes. I own none of them and don't particularly need the set to match.
