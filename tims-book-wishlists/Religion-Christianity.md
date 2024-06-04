@@ -199,6 +199,16 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Eriksson, Anne-Louise, et al., editors. *Exploring a Heritage: Evangelical Lutheran Churches in the North.* Pickwick Publications, 2012.
 - Giewald, Arne, and Günther Thomann. *The Lutheran High Church Movement in Germany and Its Liturgical Work: An Introduction.* 2011.
 - Gritsch, Eric W. *Fortress Introduction to Lutheranism.* Fortress Press, 1994.
+- Työrinoja, Pirjo and Suomen evankelis-luterilainen kirkko, editors. *The Evangelical Lutheran Church in Finnish Society.* Church Council for Foreign Affairs, Church Council, 1994.
+- Hartling, Poul. *The Danish Church.* Nordic Books. 1985.
+- Lausten, M.S. *A Church History of Denmark.* Routledge. 2002.
+- Murray, Robert. *The Church of Sweden, Past and Present.* Allhem.
+- Grell, Ole Peter, editor. *The Scandinavian Reformation: From Evangelical Movement to Institutionalisation of Reform.* Cambridge University Press, 1995.
+- Gritsch, Eric W. *A History of Lutheranism.* Fortress Press, 2002.
+- Lohrmann, Martin J. *Stories from Global Lutheranism: A Historical Timeline.* Fortress Press, 2021.
+- Yelverton, Eric Esskildsen. *An archbishop of the Reformation: Laurentius Petri Nericius, Archbishop of Uppsala, 1531-73: A study of his liturgical projects.* Epworth Press. 1958.
+- Murray, Robert. *A brief history of the Church of Sweden;: Origins and modern structure.* Diakonistyrels ens bokfolrlag. 1961.
+- Eriksson, Anne-Louise, et al., editors. *Exploring a Heritage: Evangelical Lutheran Churches in the North.* Pickwick Publications, 2012.
 ## (Assyrian/Ancient) Church of the East
 - Baum, Wilhelm, and Dietmar W. Winkler. *The Church of the East: A Concise History.* Routledge, 2011.
 - Baumer, Christoph. *The Church of the East: An Illustrated History of Assyrian Christianity.* New edition, I.B. Tauris, 2016.
@@ -218,6 +228,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Hailu, Afework. *Jewish Cultural Elements in the Ethiopian Orthodox Täwaḥado Church.* Gorgias Press, 2020.
 - Isaac, Ephraim. *The Ethiopian Orthodox Täwahïdo Church.* Red Sea Press, 2012.
 - Yesehaq. *The Ethiopian Tewahedo Church: An Integrally African Church.* J.C. Winston Pub. Co, 1997.
+- Uqbit, Tesfazghi. *Current Christological Positions of Ethiopian Orthodox Theologians.* Pontificio Istituto Orientale, 1973,
 ## Methodism
 - Wilson, Kenneth. *Methodist Theology.* T & T Clark, 2011.
 
@@ -310,6 +321,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Braw, Elisabeth. *God's Spies: The Stasi's Cold War Espionage Campaign inside the Church.* Lion, 2019.
 - Burgess, John P. *The East German Church and the End of Communism.* Oxford University Press, 1997.
 - Tyndale, Wendy. *Protestants in Communist East Germany: In the Storm of the World.* Ashgate, 2010.
+- Eckart. *The Evangelical Church in Berlin and the Soviet zone of Germany.* trans. Lynch, Patrick. 1959.
 #### Kirche im Dritten Reich
 - Bergen, Doris L. *Twisted Cross: The German Christian Movement in the Third Reich.* University of North Carolina Press, 1996.
 ### Church and State, Church and Culture
@@ -318,7 +330,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - bar Sennāḳ, Labubnā. *The Teaching of Addai.* Translated by Georg Howard. Scholars Press, 1981.
 - Blumell, Lincoln H., and Thomas A. Wayment, editors. *Christian Oxyrhynchus: Texts, Documents, and Sources.* Baylor University Press, 2015
 - Hünermann, Peter, et al., editors. *Compendium of creeds, definitions, and declarations on matters of faith and morals.* 43rd ed, Ignatius Press, 2012.
-- McGowan, Anne, and Paul F. Bradshaw, editors.* The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary.* Liturgical Press, 2018.
+- McGowan, Anne, and Paul F. Bradshaw, editors. *The Pilgrimage of Egeria: A New Translation of the Itinerarium Egeriae with Introduction and Commentary.* Liturgical Press, 2018.
 - Sims-Williams, Nicholas. *An Ascetic Miscellany: The Christian Sogdian Manuscript E28.* Brepols, 2017.
 - Sperry-White, Grant, editor. *The Testamentum Domini: A Text for Students; with Introduction, Translation, and Notes.* Grove Books Ltd, 1991.
 - Terian, Abraham, editor. *The Life of Mashtots' by His Disciple Koriwn: Translated from the Classical Armenian with Introduction and Commentary.* Oxford University Press, 2022.
@@ -367,6 +379,8 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - O'Loughlin, Thomas, editor. *Liturgical Language and Translation: The Issues Arising from the Revised English Translation of the Roman Missal.* Hymns Ancient and Modern, 2014.
 - Tovey, Phillip. *Communion Outside the Eucharist.* Grove, 1993.
 - Vasey, Michael. *Celebrating Forgiveness.* Grove Books, 2004.
+- Jasper, R. C. D. *The Development of the Anglican Liturgy, 1662-1980.* SPCK, 1989.
+- Shoemaker, Stephen J. *The First Christian Hymnal: The Songs of the Ancient Jerusalem Church.* Brill, 2023.
 ### Liturgical Texts
 - Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002.
 - Gibson, Jonathan, editor. *Reformation Worship: Liturgies from the Past for the Present.* New Growth Press, 2018.
