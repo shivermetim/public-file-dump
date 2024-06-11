@@ -137,6 +137,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Cannon, Mae Elise, and Andrea Smith, editors. *Evangelical Theologies of Liberation and Justice.* IVP Academic, 2019.
 - Chan, Simon. *Grassroots Asian Theology: Thinking the Faith from the Ground Up.* InterVarsity Press, 2014.
 - Deverell, Garry J. *Gondwana Theology: A Trawloolway Man Reflects on Christian Faith.* Morning Star Publishing, 2018.
+- Deverell, Garry Worete. *Contemplating Country: More Gondwana Theology.* Wipf & Stock, 2023.
 - Elvey, Anne F. *Reading the Magnificat in Australia: Unsettling Engagements.* 2020.
 - England, John C., editor. *Living Theology in Asia.* SCM Press, 1981.
 - Evans, James H. *We Have Been Believers: An African American Systematic Theology.* 2nd ed, Fortress Press, 2012.
@@ -155,6 +156,8 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Thatamanil, John J. *Circling the Elephant: A Comparative Theology of Religious Diversity.* Fordham University Press, 2020.
 - Twiss, Richard. *Rescuing the Gospel from the Cowboys: A Native American Expression of the Jesus Way.* InterVarsity Press, 2015.
 - Zakī, Andriyah, editor. *Arabic Christian Theology: A Contemporary Global Evangelical Perspective.* Zondervan, 2019.
+- Budden, Chris. *Following Jesus in Invaded Space: Doing Theology on Aboriginal Land.* Cambridge, UK : James Clarke & Co, 2011.
+- Loos, Noel. *White Christ Black Cross: The Emergence of a B Lack Church.* Aboriginal Studies Press, 2007.
 ### Political Theology
 - Boer, Roland, and Christina Petterson. *Idols of Nations: Biblical Myth at the Origins of Capitalism.* Fortress Press, 2014.
 - Dean, Mitchell, ed. *Political Theology Today: 100 Years after Carl Schmitt.* Bloomsbury Academic, 2023.
@@ -172,6 +175,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 
 # Specific Churches & Denominations
 - Holmes, Stephen R. *Baptist Theology.* Clark, 2012.
+- Starr, Chloë. *A Reader in Chinese Theology.* Baylor University Press, 2022.
 ## Anglicanism
 - Avis, Paul D. L. *The Anglican Understanding of the Church: An Introduction.* Second edition, SPCK, 2013.
 - Bess, Douglas. *Divided We Stand: A History of the Continuing Anglican Movement.* 1st Apocryphile ed, Apocryphile Press, 2006.
@@ -229,6 +233,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Isaac, Ephraim. *The Ethiopian Orthodox Täwahïdo Church.* Red Sea Press, 2012.
 - Yesehaq. *The Ethiopian Tewahedo Church: An Integrally African Church.* J.C. Winston Pub. Co, 1997.
 - Uqbit, Tesfazghi. *Current Christological Positions of Ethiopian Orthodox Theologians.* Pontificio Istituto Orientale, 1973,
+- Muehlbauer, Mikael. *Bastions of the Cross: Medieval Rock-Cut Cruciform Churches of Tigray, Ethiopia.* Dumbarton Oaks Research Library and Collection, 2023.
 ## Methodism
 - Wilson, Kenneth. *Methodist Theology.* T & T Clark, 2011.
 
@@ -381,6 +386,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Vasey, Michael. *Celebrating Forgiveness.* Grove Books, 2004.
 - Jasper, R. C. D. *The Development of the Anglican Liturgy, 1662-1980.* SPCK, 1989.
 - Shoemaker, Stephen J. *The First Christian Hymnal: The Songs of the Ancient Jerusalem Church.* Brill, 2023.
+- Chupungco, Anscar J. *Cultural Adaptation of the Liturgy.* Paulist Press, 1982.
 ### Liturgical Texts
 - Chilcott-Monk, Julien, editor. *English Ritual: The Book of Administration of the Sacraments and Other Rites and Ceremonies of the Church.* Canterbury Press, 2002.
 - Gibson, Jonathan, editor. *Reformation Worship: Liturgies from the Past for the Present.* New Growth Press, 2018.

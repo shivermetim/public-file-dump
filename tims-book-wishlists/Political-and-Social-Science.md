@@ -48,6 +48,11 @@ Tim's Book Wish List (Philosophy, Political & Social Science) 2022.11.12 12:49
 - Pascoe, Bruce. *Convincing Ground: Learning to Fall in Love with Your Country.* Aboriginal Studies Press, 2007.
 - Price, Kaye, editor. *Knowledge of Life: Aboriginal and Torres Strait Islander Australia.* Cambridge University Press, 2015.
 - Walsh, Michael, and Colin Yallop, editors. *Language and Culture in Aboriginal Australia.* Aboriginal Studies Press, 1993.
+- McGrath, Ann, et al., editors. *Every When: Australia and the Language of Deep History.* UNSW Press, 2023.
+- Langton, Marcia, and Aaron David Samuel Corn. *Law: The Way of the Ancestors.* Thames & Hudson Australia/National Museum Australia, 2023.
+- Broome, Richard. *Aboriginal Australians: A History since 1788.* 5th ed, Allen & Unwin, 2019.
+- Tatz, Colin. *Australia’s Unthinkable Genocide.* Xlibris, 2017.
+- Presland, Gary. *First People: The Eastern Kulin of Melbourne, Port Phillip and Central Victoria.* Museum Victoria Pub., 2010.
 ## Papua New Guinea
 - Goddard, Michael. *Out of Place: Madness in the Highlands of Papua New Guinea.* Berghahn Books, 2011.
 - Matthiessen, Peter. *Under the Mountain Wall: A Chronicle of Two Seasons in Stone Age New Guinea.* Penguin Books, 1996.
