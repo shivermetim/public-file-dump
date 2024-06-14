@@ -158,6 +158,8 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Zakī, Andriyah, editor. *Arabic Christian Theology: A Contemporary Global Evangelical Perspective.* Zondervan, 2019.
 - Budden, Chris. *Following Jesus in Invaded Space: Doing Theology on Aboriginal Land.* Cambridge, UK : James Clarke & Co, 2011.
 - Loos, Noel. *White Christ Black Cross: The Emergence of a B Lack Church.* Aboriginal Studies Press, 2007.
+### Ecotheology
+- Conradie, E. M., editor. *Creation and Salvation: A companion on recent theological movements.* Lit, 2012.
 ### Political Theology
 - Boer, Roland, and Christina Petterson. *Idols of Nations: Biblical Myth at the Origins of Capitalism.* Fortress Press, 2014.
 - Dean, Mitchell, ed. *Political Theology Today: 100 Years after Carl Schmitt.* Bloomsbury Academic, 2023.
@@ -251,6 +253,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Pelikan, Jaroslav. *The Spirit of Eastern Christendom: 600 - 1700.* University of Chicago Press, 2006.
 - Whitworth, Patrick. *Defining God: Athanasius, Nicaea and the Trinitarian Controversy of the Fourth Century.* Sacristy Press, 2023.
 - Cole, Alan M. *The Old Catholic Phenomenon.* Avon Books, 1997.
+- Smith, David L. *Theologies of the 21st Century: Trends in Contemporary Theology.* Wipf & Stock, 2014.
 ## Patristics
 - Evans, G. R., editor. *The First Christian Theologians: An Introduction to Theology in the Early Church.* Blackwell Pub, 2004.
 - Aquinas, Thomas. *Summa Theologiae: Complete Set.* Aquinas Inst, 2012.

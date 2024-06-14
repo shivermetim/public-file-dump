@@ -53,7 +53,15 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Martin, Lerone A. *The Gospel of J. Edgar Hoover: How the FBI Aided and Abetted the Rise of White Christian Nationalism.* Princeton University Press, 2023.
 - Sansom, Clive. *Cathedral*. Routledge, 2023.
 ## Biblical Studies 
-- Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003. 
+- Schneemelcher, Wilhelm, and R. McL Wilson, editors. *New Testament Apocrypha, Vol. 2: Writings Relating To The Apostles Apocalypses And Related Subjects.* Westminster John Knox Press, 2003.
+- Elliott, J. K., editor. *The Apocryphal New Testament: A Collection of Apocryphal Christian Literature in an English Translation.* Reprint, Clarendon Press, 2007.
+- Nickelsburg, George W. E., and James C. VanderKam, editors. *1 Enoch: The Hermeneia Translation.* Revised edition, Fortress Press, 2012
+- Charlesworth, James H., editor. *The Old Testament Pseudepigrapha Volume Two.* Hendrickson Academic, 2010.
+- Charlesworth, James H., editor. *The Old Testament Pseudepigrapha Volume One.* Hendrickson Academic, 2010.
+- Bauckham, Richard, et al., editors. *Old Testament Pseudepigrapha: More Noncanonical Scriptures.* William B. Eerdmans Publishing Company, 2013.
+- Burke, Tony, and Brent Landau, editors. *New Testament Apocrypha: More Noncanonical Scriptures.* William B. Eerdmans Publishing Company, 2016.
+- Burke, Tony, and Brent Landau, editors. *New Testament Apocrypha: More Noncanonical Scriptures, Vol. 2.* William B. Eerdmans Publishing Company, 2020.
+- Burke, Tony, and Brent Landau, editors. *New Testament Apocrypha: More Noncanonical Scriptures, Vol. 3.* William B. Eerdmans Publishing Company, 2023.
 ## Historical Theology 
 - Lindsay, Mark R. *God Has Chosen: The Doctrine of Election through Christian History.* IVP Academic, an imprint of InterVarsity Press, 2020. 
 - McGrath, Alister E., editor. *The SPCK Handbook of Anglican Theologians.* SPCK, 1998. 
