@@ -80,6 +80,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Dickens, Mark. *Echoes of a Forgotten Presence: Reconstructing the History of the Church of the East in Central Asia.* LIT, 2020. 
 - Frykenberg, Robert Eric. *Christianity in India: From Beginnings to the Present.* Oxford University Press, 2010.
 - Meaza, Esubalew. *Ascending to Heaven: Ancient Churches and Monasteries of Ethiopia.* infoAddis, 2019.
+- Nicolini-Zani, Matteo, and William Skudlarek. *The Luminous Way to the East: Texts and History of the First Encounter of Christianity with China*. Oxford University Press, 2022.
 ### Anglicanism 
 - Bray, Gerald Lewis. *Anglicanism: A Reformed Catholic Tradition.* Lexham Press, 2021. 
 - Chapman, Mark D., and Jeremy Bonner, editors. *Costly Communion: Ecumenical Initiative and Sacramental Strife in the Anglican Communion.* Brill, 2019. 
