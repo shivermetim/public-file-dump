@@ -149,7 +149,9 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 # Geopolitics & Current Affairs
 - Kassenova, Togzhan. *Atomic Steppe: How Kazakhstan Gave up the Bomb.* Stanford University Press, 2022. 
 - Lillis, Joanna. *Dark Shadows: Inside the Secret World of Kazakhstan.* Bloomsbury Publishing, 2022. 
-- Nash, Mark, editor. *Red Africa: Affective Communities and the Cold War.* Black Dog Publishing, 2016. 
+- Nash, Mark, editor. *Red Africa: Affective Communities and the Cold War.* Black Dog Publishing, 2016.
+- Perlstein, Rick. *Nixonland: The Rise of a President and the Fracturing of America.* Scribner, 2008.
+- Perlstein, Rick. *Reaganland: America’s Right Turn 1976-1980.* Simon & Schuster, 2020.
 
 ---
 
