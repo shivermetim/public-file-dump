@@ -32,6 +32,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 
 # Misc
 - Berger, Sidney E. *The Dictionary of the Book: A Glossary for Book Collectors, Booksellers, Librarians, and Others.* Second edition, Rowman & Littlefield, 2022.
+- Tolkien, J. R. R. *The Collected Poems of J. R. R. Tolkien.* HarperCollins, 2024.
 
 # Indigenous Australia 
 - Charles River Editors. *The Aborigines and Maori: The History of the Indigenous Peoples in Australia and New Zealand.* 2018. 
