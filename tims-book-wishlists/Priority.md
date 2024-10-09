@@ -34,6 +34,16 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Berger, Sidney E. *The Dictionary of the Book: A Glossary for Book Collectors, Booksellers, Librarians, and Others.* Second edition, Rowman & Littlefield, 2022.
 - Tolkien, J. R. R. *The Collected Poems of J. R. R. Tolkien.* HarperCollins, 2024.
 
+# Fiction
+- Lederer, William J., and Eugen Burdick. *The Ugly American.* Norton, 1958.
+- Pynchon, Thomas. *Vineland.* Little, Brown, 1990.
+- Naipaul, V. S. *Guerrillas.* Andre Deutsch, 1975.
+- Solzhenitsyn, Aleksandr Isaevich. *Cancer Ward.* Modern Library, 1983.
+- Greene, Graham. *The Comedians.* Viking Press, 1966.
+- Nguyen, Viet Thanh. *The Sympathizer.* Grove Press, 2015.
+- Bảo Ninh, and Frank Palmos. *The Sorrow of War: A Novel of North Vietnam.* Riverhead Books, 1996
+
+
 # Indigenous Australia 
 - Charles River Editors. *The Aborigines and Maori: The History of the Indigenous Peoples in Australia and New Zealand.* 2018. 
 - Lassak, E. V., and Tara McCarthy. *Australian Medicinal Plants: A Complete Guide to Identification and Usage.* Reed New Holland, 2012. 
@@ -67,7 +77,8 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Lindsay, Mark R. *God Has Chosen: The Doctrine of Election through Christian History.* IVP Academic, an imprint of InterVarsity Press, 2020. 
 - McGrath, Alister E., editor. *The SPCK Handbook of Anglican Theologians.* SPCK, 1998. 
 - Miller, Ed L., and Stanley J. Grenz. *Fortress Introduction to Contemporary Theologies.* Fortress Press, 1998. 
-- Olson, Roger E. *The Journey of Modern Theology: From Reconstruction to Deconstruction.* IVP Academic, 2013. 
+- Olson, Roger E. *The Journey of Modern Theology: From Reconstruction to Deconstruction.* IVP Academic, 2013.
+- Burke, Simon. **The Principles of Religion* by Rabban Daniel Ibn al-Ḥaṭṭāb: A 13th-Century Synopsis of Syriac Orthodox Belief.* Brill, 2024.
 ## Church History
 - Faraji, Salim. *The Roots of Nubian Christianity Uncovered: The Triumph of the Last Pharaoh*. 2012, Africa World Press.
 - Breward, Ian. *A History of the Churches in Australasia.* Oxford University Press, 2001.
