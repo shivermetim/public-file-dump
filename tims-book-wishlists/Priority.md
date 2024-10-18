@@ -31,6 +31,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
   
 
 # (New)
+- Naipaul, V. S. *An Area of Darkness: His Discovery of India.* Andre Deutsch, 1964.
 - Klimke, Martin, and Joachim Scharloth, editors. *1968 in Europe: A History of Protest and Activism, 1956-1977.* Palgrave Macmillan, 2008.
 - Turse, Nick. *Kill Anything That Moves: The Real American War in Vietnam.* Picador, 2014.
 - Bảo Ninh, and Frank Palmos. *The Sorrow of War: A Novel of North Vietnam.* Riverhead Books, 1996
