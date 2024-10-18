@@ -30,19 +30,22 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
   - [History of Computer Science](#history-of-computer-science)
   
 
+# (New)
+- Klimke, Martin, and Joachim Scharloth, editors. *1968 in Europe: A History of Protest and Activism, 1956-1977.* Palgrave Macmillan, 2008.
+- Turse, Nick. *Kill Anything That Moves: The Real American War in Vietnam.* Picador, 2014.
+- Bảo Ninh, and Frank Palmos. *The Sorrow of War: A Novel of North Vietnam.* Riverhead Books, 1996
+- Lederer, William J., and Eugen Burdick. *The Ugly American.* Norton, 1958.
+
 # Misc
 - Berger, Sidney E. *The Dictionary of the Book: A Glossary for Book Collectors, Booksellers, Librarians, and Others.* Second edition, Rowman & Littlefield, 2022.
 - Tolkien, J. R. R. *The Collected Poems of J. R. R. Tolkien.* HarperCollins, 2024.
 
 # Fiction
-- Lederer, William J., and Eugen Burdick. *The Ugly American.* Norton, 1958.
 - Pynchon, Thomas. *Vineland.* Little, Brown, 1990.
 - Naipaul, V. S. *Guerrillas.* Andre Deutsch, 1975.
 - Solzhenitsyn, Aleksandr Isaevich. *Cancer Ward.* Modern Library, 1983.
 - Greene, Graham. *The Comedians.* Viking Press, 1966.
 - Nguyen, Viet Thanh. *The Sympathizer.* Grove Press, 2015.
-- Bảo Ninh, and Frank Palmos. *The Sorrow of War: A Novel of North Vietnam.* Riverhead Books, 1996
-
 
 # Indigenous Australia 
 - Charles River Editors. *The Aborigines and Maori: The History of the Indigenous Peoples in Australia and New Zealand.* 2018. 
