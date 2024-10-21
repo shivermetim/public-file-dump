@@ -36,6 +36,7 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Turse, Nick. *Kill Anything That Moves: The Real American War in Vietnam.* Picador, 2014.
 - Bảo Ninh, and Frank Palmos. *The Sorrow of War: A Novel of North Vietnam.* Riverhead Books, 1996
 - Lederer, William J., and Eugen Burdick. *The Ugly American.* Norton, 1958.
+- Grandin, Greg. *Empire’s Workshop: Latin America, the United States, and the Making of an Imperial Republic.* Picador, 2021.
 
 # Misc
 - Berger, Sidney E. *The Dictionary of the Book: A Glossary for Book Collectors, Booksellers, Librarians, and Others.* Second edition, Rowman & Littlefield, 2022.
