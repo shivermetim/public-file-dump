@@ -30,24 +30,8 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
   - [History of Computer Science](#history-of-computer-science)
   
 
-# (New)
-- Naipaul, V. S. *An Area of Darkness: His Discovery of India.* Andre Deutsch, 1964.
-- Klimke, Martin, and Joachim Scharloth, editors. *1968 in Europe: A History of Protest and Activism, 1956-1977.* Palgrave Macmillan, 2008.
-- Turse, Nick. *Kill Anything That Moves: The Real American War in Vietnam.* Picador, 2014.
-- Bảo Ninh, and Frank Palmos. *The Sorrow of War: A Novel of North Vietnam.* Riverhead Books, 1996
-- Lederer, William J., and Eugen Burdick. *The Ugly American.* Norton, 1958.
-- Grandin, Greg. *Empire’s Workshop: Latin America, the United States, and the Making of an Imperial Republic.* Picador, 2021.
-
 # Misc
 - Berger, Sidney E. *The Dictionary of the Book: A Glossary for Book Collectors, Booksellers, Librarians, and Others.* Second edition, Rowman & Littlefield, 2022.
-- Tolkien, J. R. R. *The Collected Poems of J. R. R. Tolkien.* HarperCollins, 2024.
-
-# Fiction
-- Pynchon, Thomas. *Vineland.* Little, Brown, 1990.
-- Naipaul, V. S. *Guerrillas.* Andre Deutsch, 1975.
-- Solzhenitsyn, Aleksandr Isaevich. *Cancer Ward.* Modern Library, 1983.
-- Greene, Graham. *The Comedians.* Viking Press, 1966.
-- Nguyen, Viet Thanh. *The Sympathizer.* Grove Press, 2015.
 
 # Indigenous Australia 
 - Charles River Editors. *The Aborigines and Maori: The History of the Indigenous Peoples in Australia and New Zealand.* 2018. 
@@ -79,12 +63,10 @@ Tim's Book Wish List (Priority) 2023.04.12 13:59
 - Burke, Tony, and Brent Landau, editors. *New Testament Apocrypha: More Noncanonical Scriptures, Vol. 2.* William B. Eerdmans Publishing Company, 2020.
 - Burke, Tony, and Brent Landau, editors. *New Testament Apocrypha: More Noncanonical Scriptures, Vol. 3.* William B. Eerdmans Publishing Company, 2023.
 ## Historical Theology 
-Di Berardino, Angelo, et al., editors. _Patrology: The Eastern Fathers from the Council of Chalcedon (451) to John of Damascus (+750)_. James Clarke, 2008.
 - Lindsay, Mark R. *God Has Chosen: The Doctrine of Election through Christian History.* IVP Academic, an imprint of InterVarsity Press, 2020. 
 - McGrath, Alister E., editor. *The SPCK Handbook of Anglican Theologians.* SPCK, 1998. 
 - Miller, Ed L., and Stanley J. Grenz. *Fortress Introduction to Contemporary Theologies.* Fortress Press, 1998. 
-- Olson, Roger E. *The Journey of Modern Theology: From Reconstruction to Deconstruction.* IVP Academic, 2013.
-- Burke, Simon. **The Principles of Religion* by Rabban Daniel Ibn al-Ḥaṭṭāb: A 13th-Century Synopsis of Syriac Orthodox Belief.* Brill, 2024.
+- Olson, Roger E. *The Journey of Modern Theology: From Reconstruction to Deconstruction.* IVP Academic, 2013. 
 ## Church History
 - Faraji, Salim. *The Roots of Nubian Christianity Uncovered: The Triumph of the Last Pharaoh*. 2012, Africa World Press.
 - Breward, Ian. *A History of the Churches in Australasia.* Oxford University Press, 2001.
@@ -167,9 +149,7 @@ Di Berardino, Angelo, et al., editors. _Patrology: The Eastern Fathers from the
 # Geopolitics & Current Affairs
 - Kassenova, Togzhan. *Atomic Steppe: How Kazakhstan Gave up the Bomb.* Stanford University Press, 2022. 
 - Lillis, Joanna. *Dark Shadows: Inside the Secret World of Kazakhstan.* Bloomsbury Publishing, 2022. 
-- Nash, Mark, editor. *Red Africa: Affective Communities and the Cold War.* Black Dog Publishing, 2016.
-- Perlstein, Rick. *Nixonland: The Rise of a President and the Fracturing of America.* Scribner, 2008.
-- Perlstein, Rick. *Reaganland: America’s Right Turn 1976-1980.* Simon & Schuster, 2020.
+- Nash, Mark, editor. *Red Africa: Affective Communities and the Cold War.* Black Dog Publishing, 2016. 
 
 ---
 

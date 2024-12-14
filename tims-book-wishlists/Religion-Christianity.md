@@ -130,6 +130,28 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 ### Radical Theology
 - Cobb, John B., and David Ray Griffin. *Process Theology: An Introductory Exposition.* Westminster Press, 1976.
 ### Contextual, Liberation & Postcolonial Theology
+- Bauman, Chad M., and Richard Fox Young Constructing Indian Christianities: Culture, Conversion and Caste. New Delhi: Routledge, 2014.
+- Daughrity, Dyron B., Athyal, Jesudas M. Understanding World Christianity: India. Minneapolis: Fortress Press, 2016.
+- Frykenberg, Robert Eric. Christians and Missionaries in India: Cross-Cultural Communication Since 1500 With Special Reference to Caste, Conversion and Colonialism. Grand Rapids: William B. Eerdmans Publishing Company, 2003.
+- Gladstone, J.W. Protestant Christianity and Peoples Movements in Kerala 1850-1936. Trivandrum: Seminary Publications, 1984.
+- Mathew, C.P. and M.M. Thomas. The Indian Churches of St. Thomas 2nd Edition. Delhi: DJVP/ISPCK, 2006.
+- Moffett, Samuel Hugh. A history of Christianity in Asia, Vol I, Beginnings to 1500. Bangalore: Theological Publication in India, 2006.
+- Mundadan, A. Mathias. History of Christianity in India Vol.1 From the Beginning Up to the Middle of the Sixteenth Century (Up to 1542). Bangalore: Theological Publication of India, 1989.
+- Philip, E. M. The Indian Church of St. Thomas 3rd Edition. Puthencruz, Kerala: Mor Adai Study Centre, 2014.
+- Samuel, John., J.B Santiago, and P Thiagarajan Early Christianity in India: With Parallel Development in Other Parts of Asia, edited by John Samuel, J.B Santiago, and P Thiagarajan, 172-81. Chennai, India: Institute of Asian Studies, 2007.
+- Webster, C.B. John. Historiography of Christianity in India. New Delhi: Oxford University Press, 2012.
+- Green, Beatrice, and Keiti Ann Kanongata'a, eds. _Weaving Theology in Oceania: Culture, Context and Practice_. Cambridge Scholars Publishing, 2020.
+- Havea, Jione, ed. _Theological and Hermeneutical Explorations from Australia: Horizons of Contextuality_. Lanham: Lexington Books/Fortress Academic, 2020.
+- Havea, Jione, ed. _Theologies from the Pacific_ Cham, Switzerland: Palgrave Macmillian, 2021.
+- Havea, Jione, Emily Colgan, and Nāsili Vaka'uta, eds. _Theology as Threshold: Invitations from Aotearoa New Zealand_. Lanham: Lexington Books/Fortress Academic, 2022.
+- Kolia, Brian Fiu, and Michael Mawson, eds. _Unsettling Theologies: Memory, Identity, and Place_. Palgrave Macmillan, 2024.
+- Vaai, Upolu Lumā, and Mark A. Lamport. _Restoring Identities: The Contextualizing Story of Christianity in Oceania_. Eugene, OR: Wipf and Stock Publishers, 2023.
+- A, Alangaram. Christ of the Asian Peoples: Towards an Asian Contextual Christology Based on the Documents of Federation of Asian Bishop's Conferences. Bangalore, Indian: Asian Trading Corp., 2001
+- Kim, Dong-Kun. The Future of Christology: Jesus Christ for a Global Age. Lanham, Maryland: Fortress Academic, 2019.
+- Kim, Yung Suk., & Jin-Ho Kim. Reading Minjung Theology in the Twenty-First Century: Selected Writings by Ahn Byung-Mu and Modern Critical Responses. Eugene, OR: Pickwick Publications, 2013.
+- V. Devasahayam, Frontiers of Dalit Theology. ISPCK/Gurukul, 1997.
+- Samartha, S.J. One Christ- Many Religions: Toward a Revised Christology. Maryknoll, NY: Orbis Books, 1991.
+- Sugirtharajah, R.S., & Cecil Hargreaves. Reading Indian Christian Theology, London: SPCK, 1993.
 - Bevans, Stephen B. *Models of Contextual Theology.* Rev. and Expanded ed, Orbis Books, 2002.
 - Bevans, Stephen B., and Katalina Tahaafe-Williams, editors. *Contextual Theology for the Twenty-First Century.* Pickwick Publications, 2011.
 - Brazal, Agnes M. *A Theology of Southeast Asia: Liberation-Postcolonial Ethics in the Phillippines.* Orbis Books, 2019.
@@ -293,6 +315,11 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Moffett, Samuel H. *A History of Christianity in Asia.* 2nd ed, Orbis Books, 1998.
 - Wood, Philip. *'We Have No King but Christ': Christian Political Thought in Greater Syria on the Eve of the Arab Conquest (c.400-585).* Oxford University Press, 2010.
 #### Syriac Studies
+- Brock, Sebastian P. A Brief Outline of Syriac Literature. 2nd ed. Mõrãn 'Eth'õ 9. Kerala: St. Ephrem Ecumenical Research Institute (SEERI), 2008.
+- Brock, Sebastian P. The Luminous Eye: The Spiritual World Vision of Saint Ephrem the Syrian. Rome: Center for Indian and Inter-Religious Studies, 1985.
+- Murray, Robert. Symbols of Church and Kingdom: A Study in Early Syriac Tradition. Rev. ed. London: T&T Clark, 2006.
+- Penn, Michael Philip, Scott Fitzgerald Johnson, Christine Shepardson, and Charles M. Stang. Invitation to Syriac Christianity: An Anthology. Oakland: University of California Press, 2022.
+- Athanasius, Mor Paulose. The Syrian Orthodox Church: Its Religion and Philosophy. Changanaserry, Kerala: Mor Adai Study Centre, 2005.
 - Akopian, Arman. *Introduction to Aramean and Syriac Studies: A Manual.* Gorgias Press, 2017.
 - Beggiani, Seely J. *Early Syriac Theology: With Special Reference to the Maronite Tradition.* Revised edition, The Catholic University of America Press, 2014.
 - Brock, Sebastian P. *A Brief Outline of Syriac Literature.* Gorgias Press, 2011.
@@ -366,6 +393,7 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Pritchard, John. *The Second Intercessions Handbook: More Creative Ideas for Public and Private Prayer.* SPCK, 2015.
 - Williams, Rowan. *The Wound of Knowledge.* Darton Longman & Todd, 2014.
 ## Liturgy
+- Monro, Anita, and Stephen Burns. _Christian Worship in Australia: Inculturating the Liturgical Tradition_. Strathfield, N.S.W.: St Pauls Publications, 2009.
 - Atherstone, Andrew, and Charles Simeon. *Charles Simeon on The Excellency of the Liturgy.* Hymns Ancient and Modern, 2011.
 - Bradshaw, Paul F. *The New SCM Dictionary of Liturgy and Worship.* SCM Press, 2013.
 - Bradshaw, Paul F., and John Melloh, editors. *Foundations in Ritual Studies: A Reader for Students of Christian Worship.* Baker Academic, 2007.
@@ -441,6 +469,8 @@ Tim's Book Wish List (Christianity) 2023.03.27 18:33
 - Anglicanorum Coetibus Society. *Divine Worship: The Missal.* Catholic Truth Society, 2015. 
 #### Eastern Liturgy
 - Varghese, Baby. *The Syriac Version of the Liturgy of St. James: A Brief History for Students.* Grove Books Limited, 2001.
+- Namato, Lawrance L. (trans.) *The Order of the Holy Qurbana according to the Liturgy of Mar Addai and Mar Mari, for the use of the faithful.* rev. ed., Modesto CA, Assyrian Church of the East, 2009.
+- Birnie, Michael (trans.) *The Order of the Holy Qurbana for the Use of the Faithful / ܕܩܘܪܒܢܐ ܩܕܝܫܐ ܩܐ ܡܦܠܚܬܐ ܕܡܗܝܡܢ̈ܐ ܩܘܪܒܢܐ ܩܕܝܫܐ*. Adiabene Publications, 2001.
 #### Early Liturgies
 - Johnson, Lawrence J. *Worship in the Early Church: An Anthology of Historical Sources. Vol I.* Liturgical Press, 2009.
 - Johnson, Lawrence J. *Worship in the Early Church: An Anthology of Historical Sources. Vol II.* Liturgical Press, 2009.
