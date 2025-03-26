@@ -18,6 +18,8 @@ Tim's Book Wish List (Rare) 2024-05-23 22:27:16 PM
 - [Francis J. Halls Dogmatic Theology](#francis-j-halls-dogmatic-theology)
 
 # Rare, Hard to Find, or Out of Print
+- Sainsbury, Maurice J. *Key to Psychiatry: A Textbook for Students.* 2nd (1974) or 3rd (1980) edition
+- Sargant, William Walters, et al. *An Introduction to Physical Methods of Treatment in Psychiatry.*  1st (1955), 2nd (1948), 3rd (1954), or 4th (1963) edition, Livingston.
 - [*The Anglican Breviary*](https://www.anglicanbreviary.net) Frank Gavin Liturgical Foundation, 1998. Publishing Ltd, 2011.
 - Anglican Church of Southern Africa. *Celebrating Sunday under Southern Skies in an African Voice.* Johannesburg: Anglican Church of Southern Africa, 2017. https://anglicanchurchsa.org/product/celebrating-sunday-cd/
 - Antiochian Orthodox Christian Archdiocese of North America, editor. *The Liturgikon: The Book of Divine Services for the Priest and Deacon.* 2nd ed, Englewood, NJ: Antakya Press, 1994.
